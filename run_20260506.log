@@ -1,0 +1,2163 @@
+2026-05-06 09:09:13 | INFO | preprocessing | Loading data from data/sales_data.xlsx
+2026-05-06 09:09:14 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 09:09:14 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 09:09:14 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Loading data from data/sales_data.xlsx
+2026-05-06 09:09:59 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 09:09:59 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 09:09:59 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 09:10:06 | INFO | evaluation | Best model by MAPE: xgboost (3.00%)
+2026-05-06 09:10:11 | INFO | evaluation | Preferring sarima over xgboost (MAPE diff: 0.50%)
+2026-05-06 15:42:15 | INFO | main | Data path: C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\data\sales_data.xlsx
+2026-05-06 15:42:15 | INFO | main | Training all available states
+2026-05-06 15:42:15 | INFO | train_pipeline | Starting full training pipeline...
+2026-05-06 15:42:15 | INFO | preprocessing | Loading data from C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\data\sales_data.xlsx
+2026-05-06 15:42:17 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 15:42:17 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 15:42:17 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:42:17 | INFO | train_pipeline |   Training: Alabama
+2026-05-06 15:42:17 | INFO | train_pipeline | ############################################################
+2026-05-06 15:42:17 | INFO | train_pipeline | [Alabama] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:42:21 | INFO | arima_model | [Alabama] Fitting SARIMA...
+2026-05-06 15:42:25 | INFO | arima_model | [Alabama] pmdarima not installed, using defaults
+2026-05-06 15:42:32 | INFO | arima_model | [Alabama] SARIMA fit done. AIC: 4829.99
+2026-05-06 15:42:41 | INFO | arima_model | [Alabama] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Alabama.pkl
+2026-05-06 15:42:42 | INFO | prophet_model | [Alabama] Fitting Prophet...
+2026-05-06 15:42:42 | ERROR | train_pipeline | [Alabama] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:42:48 | INFO | xgboost_model | [Alabama] Building features for XGBoost...
+2026-05-06 15:42:48 | INFO | xgboost_model | [Alabama] XGBoost train RMSE: 413,573
+2026-05-06 15:42:55 | INFO | visualization | [Alabama] Feature importance plot saved
+2026-05-06 15:42:55 | INFO | xgboost_model | [Alabama] Building features for XGBoost...
+2026-05-06 15:42:55 | INFO | xgboost_model | [Alabama] XGBoost train RMSE: 430,982
+2026-05-06 15:42:55 | INFO | xgboost_model | [Alabama] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Alabama.pkl
+2026-05-06 15:44:13 | INFO | lstm_model | [Alabama] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:44:31 | INFO | lstm_model | [Alabama] LSTM training done. Best val_loss: 0.004443
+2026-05-06 15:44:33 | INFO | lstm_model | [Alabama] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:44:47 | INFO | lstm_model | [Alabama] LSTM training done. Best val_loss: 0.003764
+2026-05-06 15:44:48 | INFO | lstm_model | [Alabama] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Alabama.h5
+2026-05-06 15:44:48 | INFO | evaluation | Best model by MAPE: lstm (1.33%)
+2026-05-06 15:44:48 | INFO | evaluation | 
+==================================================
+2026-05-06 15:44:48 | INFO | evaluation |   Results for: Alabama
+2026-05-06 15:44:48 | INFO | evaluation | ==================================================
+2026-05-06 15:44:48 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  4509450.05  2636203.06  1.33     1
+xgboost  5623386.79  5307728.27  2.63     2
+ sarima 17806139.02 15743718.73  7.78     3
+2026-05-06 15:44:48 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:44:48 | INFO | evaluation | ==================================================
+
+2026-05-06 15:44:49 | INFO | visualization | [Alabama] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Alabama.png
+2026-05-06 15:44:49 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:44:49 | INFO | train_pipeline |   Training: Arizona
+2026-05-06 15:44:49 | INFO | train_pipeline | ############################################################
+2026-05-06 15:44:49 | INFO | train_pipeline | [Arizona] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:44:49 | INFO | arima_model | [Arizona] Fitting SARIMA...
+2026-05-06 15:44:49 | INFO | arima_model | [Arizona] pmdarima not installed, using defaults
+2026-05-06 15:44:55 | INFO | arima_model | [Arizona] SARIMA fit done. AIC: 4826.98
+2026-05-06 15:45:05 | INFO | arima_model | [Arizona] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Arizona.pkl
+2026-05-06 15:45:05 | INFO | prophet_model | [Arizona] Fitting Prophet...
+2026-05-06 15:45:05 | ERROR | train_pipeline | [Arizona] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:45:05 | INFO | xgboost_model | [Arizona] Building features for XGBoost...
+2026-05-06 15:45:06 | INFO | xgboost_model | [Arizona] XGBoost train RMSE: 337,590
+2026-05-06 15:45:17 | INFO | visualization | [Arizona] Feature importance plot saved
+2026-05-06 15:45:17 | INFO | xgboost_model | [Arizona] Building features for XGBoost...
+2026-05-06 15:45:17 | INFO | xgboost_model | [Arizona] XGBoost train RMSE: 351,127
+2026-05-06 15:45:17 | INFO | xgboost_model | [Arizona] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Arizona.pkl
+2026-05-06 15:45:17 | INFO | lstm_model | [Arizona] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:45:32 | INFO | lstm_model | [Arizona] LSTM training done. Best val_loss: 0.007716
+2026-05-06 15:45:34 | INFO | lstm_model | [Arizona] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:45:46 | INFO | lstm_model | [Arizona] LSTM training done. Best val_loss: 0.006939
+2026-05-06 15:45:47 | INFO | lstm_model | [Arizona] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Arizona.h5
+2026-05-06 15:45:47 | INFO | evaluation | Best model by MAPE: lstm (4.13%)
+2026-05-06 15:45:47 | INFO | evaluation | 
+==================================================
+2026-05-06 15:45:47 | INFO | evaluation |   Results for: Arizona
+2026-05-06 15:45:47 | INFO | evaluation | ==================================================
+2026-05-06 15:45:47 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  9682755.54  9308702.79  4.13     1
+ sarima 18183957.16 15059076.75  6.65     2
+xgboost 25823575.26 24808834.44 10.95     3
+2026-05-06 15:45:47 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:45:47 | INFO | evaluation | ==================================================
+
+2026-05-06 15:45:48 | INFO | visualization | [Arizona] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Arizona.png
+2026-05-06 15:45:48 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:45:48 | INFO | train_pipeline |   Training: Arkansas
+2026-05-06 15:45:48 | INFO | train_pipeline | ############################################################
+2026-05-06 15:45:48 | INFO | train_pipeline | [Arkansas] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:45:48 | INFO | arima_model | [Arkansas] Fitting SARIMA...
+2026-05-06 15:45:48 | INFO | arima_model | [Arkansas] pmdarima not installed, using defaults
+2026-05-06 15:45:54 | INFO | arima_model | [Arkansas] SARIMA fit done. AIC: 4645.77
+2026-05-06 15:46:31 | INFO | arima_model | [Arkansas] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Arkansas.pkl
+2026-05-06 15:46:31 | INFO | prophet_model | [Arkansas] Fitting Prophet...
+2026-05-06 15:46:31 | ERROR | train_pipeline | [Arkansas] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:46:31 | INFO | xgboost_model | [Arkansas] Building features for XGBoost...
+2026-05-06 15:46:31 | INFO | xgboost_model | [Arkansas] XGBoost train RMSE: 197,363
+2026-05-06 15:46:32 | INFO | visualization | [Arkansas] Feature importance plot saved
+2026-05-06 15:46:32 | INFO | xgboost_model | [Arkansas] Building features for XGBoost...
+2026-05-06 15:46:33 | INFO | xgboost_model | [Arkansas] XGBoost train RMSE: 203,031
+2026-05-06 15:46:33 | INFO | xgboost_model | [Arkansas] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Arkansas.pkl
+2026-05-06 15:46:33 | INFO | lstm_model | [Arkansas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:46:48 | INFO | lstm_model | [Arkansas] LSTM training done. Best val_loss: 0.004637
+2026-05-06 15:46:50 | INFO | lstm_model | [Arkansas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:47:01 | INFO | lstm_model | [Arkansas] LSTM training done. Best val_loss: 0.004539
+2026-05-06 15:47:02 | INFO | lstm_model | [Arkansas] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Arkansas.h5
+2026-05-06 15:47:02 | INFO | evaluation | Best model by MAPE: lstm (3.07%)
+2026-05-06 15:47:02 | INFO | evaluation | 
+==================================================
+2026-05-06 15:47:02 | INFO | evaluation |   Results for: Arkansas
+2026-05-06 15:47:02 | INFO | evaluation | ==================================================
+2026-05-06 15:47:02 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 3590347.50 3411283.62  3.07     1
+xgboost 6292785.64 5779222.47  5.19     2
+ sarima 9554016.51 7529120.36  6.76     3
+2026-05-06 15:47:02 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:47:02 | INFO | evaluation | ==================================================
+
+2026-05-06 15:47:03 | INFO | visualization | [Arkansas] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Arkansas.png
+2026-05-06 15:47:03 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:47:03 | INFO | train_pipeline |   Training: California
+2026-05-06 15:47:03 | INFO | train_pipeline | ############################################################
+2026-05-06 15:47:03 | INFO | train_pipeline | [California] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:47:03 | INFO | arima_model | [California] Fitting SARIMA...
+2026-05-06 15:47:03 | INFO | arima_model | [California] pmdarima not installed, using defaults
+2026-05-06 15:47:09 | INFO | arima_model | [California] SARIMA fit done. AIC: 5213.43
+2026-05-06 15:47:17 | INFO | arima_model | [California] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_California.pkl
+2026-05-06 15:47:17 | INFO | prophet_model | [California] Fitting Prophet...
+2026-05-06 15:47:17 | ERROR | train_pipeline | [California] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:47:17 | INFO | xgboost_model | [California] Building features for XGBoost...
+2026-05-06 15:47:18 | INFO | xgboost_model | [California] XGBoost train RMSE: 1,496,856
+2026-05-06 15:47:19 | INFO | visualization | [California] Feature importance plot saved
+2026-05-06 15:47:19 | INFO | xgboost_model | [California] Building features for XGBoost...
+2026-05-06 15:47:20 | INFO | xgboost_model | [California] XGBoost train RMSE: 1,707,349
+2026-05-06 15:47:20 | INFO | xgboost_model | [California] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_California.pkl
+2026-05-06 15:47:20 | INFO | lstm_model | [California] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:47:34 | INFO | lstm_model | [California] LSTM training done. Best val_loss: 0.003848
+2026-05-06 15:47:36 | INFO | lstm_model | [California] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:47:50 | INFO | lstm_model | [California] LSTM training done. Best val_loss: 0.004672
+2026-05-06 15:47:53 | INFO | lstm_model | [California] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_California.h5
+2026-05-06 15:47:53 | INFO | evaluation | Best model by MAPE: lstm (4.22%)
+2026-05-06 15:47:53 | INFO | evaluation | 
+==================================================
+2026-05-06 15:47:53 | INFO | evaluation |   Results for: California
+2026-05-06 15:47:53 | INFO | evaluation | ==================================================
+2026-05-06 15:47:53 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 37890425.71 36417917.84  4.22     1
+xgboost 59475282.64 57457768.09  6.66     2
+ sarima 82526788.13 65304815.35  7.59     3
+2026-05-06 15:47:53 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:47:53 | INFO | evaluation | ==================================================
+
+2026-05-06 15:47:54 | INFO | visualization | [California] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_California.png
+2026-05-06 15:47:54 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:47:54 | INFO | train_pipeline |   Training: Colorado
+2026-05-06 15:47:54 | INFO | train_pipeline | ############################################################
+2026-05-06 15:47:54 | INFO | train_pipeline | [Colorado] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:47:54 | INFO | arima_model | [Colorado] Fitting SARIMA...
+2026-05-06 15:47:54 | INFO | arima_model | [Colorado] pmdarima not installed, using defaults
+2026-05-06 15:48:01 | INFO | arima_model | [Colorado] SARIMA fit done. AIC: 4776.14
+2026-05-06 15:48:13 | INFO | arima_model | [Colorado] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Colorado.pkl
+2026-05-06 15:48:13 | INFO | prophet_model | [Colorado] Fitting Prophet...
+2026-05-06 15:48:13 | ERROR | train_pipeline | [Colorado] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:48:13 | INFO | xgboost_model | [Colorado] Building features for XGBoost...
+2026-05-06 15:48:13 | INFO | xgboost_model | [Colorado] XGBoost train RMSE: 309,687
+2026-05-06 15:48:14 | INFO | visualization | [Colorado] Feature importance plot saved
+2026-05-06 15:48:14 | INFO | xgboost_model | [Colorado] Building features for XGBoost...
+2026-05-06 15:48:14 | INFO | xgboost_model | [Colorado] XGBoost train RMSE: 324,628
+2026-05-06 15:48:15 | INFO | xgboost_model | [Colorado] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Colorado.pkl
+2026-05-06 15:48:15 | INFO | lstm_model | [Colorado] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:48:27 | INFO | lstm_model | [Colorado] LSTM training done. Best val_loss: 0.003590
+2026-05-06 15:48:29 | INFO | lstm_model | [Colorado] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:48:45 | INFO | lstm_model | [Colorado] LSTM training done. Best val_loss: 0.003302
+2026-05-06 15:48:46 | INFO | lstm_model | [Colorado] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Colorado.h5
+2026-05-06 15:48:46 | INFO | evaluation | Best model by MAPE: lstm (2.42%)
+2026-05-06 15:48:46 | INFO | evaluation | 
+==================================================
+2026-05-06 15:48:46 | INFO | evaluation |   Results for: Colorado
+2026-05-06 15:48:46 | INFO | evaluation | ==================================================
+2026-05-06 15:48:46 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  4466249.93  4239431.25  2.42     1
+xgboost  6412907.63  6098990.41  3.47     2
+ sarima 15158808.40 11643759.58  6.63     3
+2026-05-06 15:48:46 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:48:46 | INFO | evaluation | ==================================================
+
+2026-05-06 15:48:47 | INFO | visualization | [Colorado] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Colorado.png
+2026-05-06 15:48:47 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:48:47 | INFO | train_pipeline |   Training: Connecticut
+2026-05-06 15:48:47 | INFO | train_pipeline | ############################################################
+2026-05-06 15:48:47 | INFO | train_pipeline | [Connecticut] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:48:47 | INFO | arima_model | [Connecticut] Fitting SARIMA...
+2026-05-06 15:48:47 | INFO | arima_model | [Connecticut] pmdarima not installed, using defaults
+2026-05-06 15:48:55 | INFO | arima_model | [Connecticut] SARIMA fit done. AIC: 4596.63
+2026-05-06 15:49:12 | INFO | arima_model | [Connecticut] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Connecticut.pkl
+2026-05-06 15:49:18 | INFO | prophet_model | [Connecticut] Fitting Prophet...
+2026-05-06 15:49:18 | ERROR | train_pipeline | [Connecticut] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:49:18 | INFO | xgboost_model | [Connecticut] Building features for XGBoost...
+2026-05-06 15:49:18 | INFO | xgboost_model | [Connecticut] XGBoost train RMSE: 176,857
+2026-05-06 15:49:20 | INFO | visualization | [Connecticut] Feature importance plot saved
+2026-05-06 15:49:20 | INFO | xgboost_model | [Connecticut] Building features for XGBoost...
+2026-05-06 15:49:20 | INFO | xgboost_model | [Connecticut] XGBoost train RMSE: 212,497
+2026-05-06 15:49:21 | INFO | xgboost_model | [Connecticut] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Connecticut.pkl
+2026-05-06 15:49:21 | INFO | lstm_model | [Connecticut] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:49:32 | INFO | lstm_model | [Connecticut] LSTM training done. Best val_loss: 0.002441
+2026-05-06 15:49:34 | INFO | lstm_model | [Connecticut] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:49:46 | INFO | lstm_model | [Connecticut] LSTM training done. Best val_loss: 0.001586
+2026-05-06 15:49:47 | INFO | lstm_model | [Connecticut] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Connecticut.h5
+2026-05-06 15:49:47 | INFO | evaluation | Best model by MAPE: lstm (1.42%)
+2026-05-06 15:49:47 | INFO | evaluation | 
+==================================================
+2026-05-06 15:49:47 | INFO | evaluation |   Results for: Connecticut
+2026-05-06 15:49:47 | INFO | evaluation | ==================================================
+2026-05-06 15:49:47 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 1405079.71 1282442.08  1.42     1
+xgboost 2556699.31 2354042.04  2.60     2
+ sarima 7758472.53 6629716.64  7.31     3
+2026-05-06 15:49:47 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:49:47 | INFO | evaluation | ==================================================
+
+2026-05-06 15:49:48 | INFO | visualization | [Connecticut] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Connecticut.png
+2026-05-06 15:49:48 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:49:48 | INFO | train_pipeline |   Training: Florida
+2026-05-06 15:49:48 | INFO | train_pipeline | ############################################################
+2026-05-06 15:49:48 | INFO | train_pipeline | [Florida] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:49:48 | INFO | arima_model | [Florida] Fitting SARIMA...
+2026-05-06 15:49:48 | INFO | arima_model | [Florida] pmdarima not installed, using defaults
+2026-05-06 15:49:55 | INFO | arima_model | [Florida] SARIMA fit done. AIC: 5131.02
+2026-05-06 15:50:07 | INFO | arima_model | [Florida] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Florida.pkl
+2026-05-06 15:50:07 | INFO | prophet_model | [Florida] Fitting Prophet...
+2026-05-06 15:50:07 | ERROR | train_pipeline | [Florida] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:50:07 | INFO | xgboost_model | [Florida] Building features for XGBoost...
+2026-05-06 15:50:07 | INFO | xgboost_model | [Florida] XGBoost train RMSE: 1,191,344
+2026-05-06 15:50:08 | INFO | visualization | [Florida] Feature importance plot saved
+2026-05-06 15:50:08 | INFO | xgboost_model | [Florida] Building features for XGBoost...
+2026-05-06 15:50:08 | INFO | xgboost_model | [Florida] XGBoost train RMSE: 1,185,746
+2026-05-06 15:50:09 | INFO | xgboost_model | [Florida] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Florida.pkl
+2026-05-06 15:50:09 | INFO | lstm_model | [Florida] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:50:26 | INFO | lstm_model | [Florida] LSTM training done. Best val_loss: 0.003054
+2026-05-06 15:50:27 | INFO | lstm_model | [Florida] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:53:27 | INFO | lstm_model | [Florida] LSTM training done. Best val_loss: 0.002975
+2026-05-06 15:53:29 | INFO | lstm_model | [Florida] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Florida.h5
+2026-05-06 15:53:29 | INFO | evaluation | Best model by MAPE: lstm (3.90%)
+2026-05-06 15:53:29 | INFO | evaluation | 
+==================================================
+2026-05-06 15:53:29 | INFO | evaluation |   Results for: Florida
+2026-05-06 15:53:29 | INFO | evaluation | ==================================================
+2026-05-06 15:53:29 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 31044343.60 29220643.41  3.90     1
+xgboost 48851644.06 46689717.98  6.23     2
+ sarima 63064426.76 55937771.57  7.47     3
+2026-05-06 15:53:29 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:53:29 | INFO | evaluation | ==================================================
+
+2026-05-06 15:53:30 | INFO | visualization | [Florida] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Florida.png
+2026-05-06 15:53:30 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:53:30 | INFO | train_pipeline |   Training: Georgia
+2026-05-06 15:53:30 | INFO | train_pipeline | ############################################################
+2026-05-06 15:53:30 | INFO | train_pipeline | [Georgia] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:53:30 | INFO | arima_model | [Georgia] Fitting SARIMA...
+2026-05-06 15:53:30 | INFO | arima_model | [Georgia] pmdarima not installed, using defaults
+2026-05-06 15:53:36 | INFO | arima_model | [Georgia] SARIMA fit done. AIC: 4991.94
+2026-05-06 15:54:32 | INFO | arima_model | [Georgia] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Georgia.pkl
+2026-05-06 15:54:32 | INFO | prophet_model | [Georgia] Fitting Prophet...
+2026-05-06 15:54:32 | ERROR | train_pipeline | [Georgia] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:54:32 | INFO | xgboost_model | [Georgia] Building features for XGBoost...
+2026-05-06 15:54:33 | INFO | xgboost_model | [Georgia] XGBoost train RMSE: 741,355
+2026-05-06 15:54:34 | INFO | visualization | [Georgia] Feature importance plot saved
+2026-05-06 15:54:34 | INFO | xgboost_model | [Georgia] Building features for XGBoost...
+2026-05-06 15:54:35 | INFO | xgboost_model | [Georgia] XGBoost train RMSE: 747,896
+2026-05-06 15:54:35 | INFO | xgboost_model | [Georgia] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Georgia.pkl
+2026-05-06 15:54:35 | INFO | lstm_model | [Georgia] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:54:51 | INFO | lstm_model | [Georgia] LSTM training done. Best val_loss: 0.004298
+2026-05-06 15:54:53 | INFO | lstm_model | [Georgia] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:55:08 | INFO | lstm_model | [Georgia] LSTM training done. Best val_loss: 0.003586
+2026-05-06 15:55:10 | INFO | lstm_model | [Georgia] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Georgia.h5
+2026-05-06 15:55:10 | INFO | evaluation | Best model by MAPE: lstm (1.30%)
+2026-05-06 15:55:10 | INFO | evaluation | 
+==================================================
+2026-05-06 15:55:10 | INFO | evaluation |   Results for: Georgia
+2026-05-06 15:55:10 | INFO | evaluation | ==================================================
+2026-05-06 15:55:10 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  7663889.78  4715945.84  1.30     1
+xgboost  7581396.11  5551833.92  1.49     2
+ sarima 31519671.42 27697029.44  7.47     3
+2026-05-06 15:55:10 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:55:10 | INFO | evaluation | ==================================================
+
+2026-05-06 15:55:11 | INFO | visualization | [Georgia] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Georgia.png
+2026-05-06 15:55:11 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:55:11 | INFO | train_pipeline |   Training: Illinois
+2026-05-06 15:55:11 | INFO | train_pipeline | ############################################################
+2026-05-06 15:55:11 | INFO | train_pipeline | [Illinois] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:55:11 | INFO | arima_model | [Illinois] Fitting SARIMA...
+2026-05-06 15:55:11 | INFO | arima_model | [Illinois] pmdarima not installed, using defaults
+2026-05-06 15:55:17 | INFO | arima_model | [Illinois] SARIMA fit done. AIC: 4927.39
+2026-05-06 15:56:15 | INFO | arima_model | [Illinois] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Illinois.pkl
+2026-05-06 15:56:15 | INFO | prophet_model | [Illinois] Fitting Prophet...
+2026-05-06 15:56:15 | ERROR | train_pipeline | [Illinois] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:56:15 | INFO | xgboost_model | [Illinois] Building features for XGBoost...
+2026-05-06 15:56:16 | INFO | xgboost_model | [Illinois] XGBoost train RMSE: 537,787
+2026-05-06 15:56:18 | INFO | visualization | [Illinois] Feature importance plot saved
+2026-05-06 15:56:18 | INFO | xgboost_model | [Illinois] Building features for XGBoost...
+2026-05-06 15:56:18 | INFO | xgboost_model | [Illinois] XGBoost train RMSE: 618,858
+2026-05-06 15:56:19 | INFO | xgboost_model | [Illinois] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Illinois.pkl
+2026-05-06 15:56:19 | INFO | lstm_model | [Illinois] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:56:47 | INFO | lstm_model | [Illinois] LSTM training done. Best val_loss: 0.005748
+2026-05-06 15:56:50 | INFO | lstm_model | [Illinois] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:57:08 | INFO | lstm_model | [Illinois] LSTM training done. Best val_loss: 0.005941
+2026-05-06 15:57:10 | INFO | lstm_model | [Illinois] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Illinois.h5
+2026-05-06 15:57:10 | INFO | evaluation | Best model by MAPE: lstm (5.26%)
+2026-05-06 15:57:10 | INFO | evaluation | 
+==================================================
+2026-05-06 15:57:10 | INFO | evaluation |   Results for: Illinois
+2026-05-06 15:57:10 | INFO | evaluation | ==================================================
+2026-05-06 15:57:10 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 17835812.78 17013408.81  5.26     1
+ sarima 28483913.82 20607420.12  6.37     2
+xgboost 25949851.29 24417501.63  7.57     3
+2026-05-06 15:57:10 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:57:10 | INFO | evaluation | ==================================================
+
+2026-05-06 15:57:12 | INFO | visualization | [Illinois] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Illinois.png
+2026-05-06 15:57:12 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:57:12 | INFO | train_pipeline |   Training: Indiana
+2026-05-06 15:57:12 | INFO | train_pipeline | ############################################################
+2026-05-06 15:57:12 | INFO | train_pipeline | [Indiana] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:57:12 | INFO | arima_model | [Indiana] Fitting SARIMA...
+2026-05-06 15:57:12 | INFO | arima_model | [Indiana] pmdarima not installed, using defaults
+2026-05-06 15:57:24 | INFO | arima_model | [Indiana] SARIMA fit done. AIC: 4827.61
+2026-05-06 15:57:37 | INFO | arima_model | [Indiana] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Indiana.pkl
+2026-05-06 15:57:37 | INFO | prophet_model | [Indiana] Fitting Prophet...
+2026-05-06 15:57:37 | ERROR | train_pipeline | [Indiana] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:57:37 | INFO | xgboost_model | [Indiana] Building features for XGBoost...
+2026-05-06 15:57:37 | INFO | xgboost_model | [Indiana] XGBoost train RMSE: 322,737
+2026-05-06 15:57:38 | INFO | visualization | [Indiana] Feature importance plot saved
+2026-05-06 15:57:38 | INFO | xgboost_model | [Indiana] Building features for XGBoost...
+2026-05-06 15:57:39 | INFO | xgboost_model | [Indiana] XGBoost train RMSE: 373,509
+2026-05-06 15:57:39 | INFO | xgboost_model | [Indiana] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Indiana.pkl
+2026-05-06 15:57:39 | INFO | lstm_model | [Indiana] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:57:50 | INFO | lstm_model | [Indiana] LSTM training done. Best val_loss: 0.006394
+2026-05-06 15:57:54 | INFO | lstm_model | [Indiana] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:58:19 | INFO | lstm_model | [Indiana] LSTM training done. Best val_loss: 0.005264
+2026-05-06 15:58:21 | INFO | lstm_model | [Indiana] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Indiana.h5
+2026-05-06 15:58:21 | INFO | evaluation | Best model by MAPE: lstm (3.82%)
+2026-05-06 15:58:21 | INFO | evaluation | 
+==================================================
+2026-05-06 15:58:21 | INFO | evaluation |   Results for: Indiana
+2026-05-06 15:58:21 | INFO | evaluation | ==================================================
+2026-05-06 15:58:21 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  8709868.84  8445626.78  3.82     1
+xgboost 11458828.20 10403707.85  4.70     2
+ sarima 18669349.81 15007632.84  6.76     3
+2026-05-06 15:58:21 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:58:21 | INFO | evaluation | ==================================================
+
+2026-05-06 15:58:22 | INFO | visualization | [Indiana] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Indiana.png
+2026-05-06 15:58:22 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:58:22 | INFO | train_pipeline |   Training: Iowa
+2026-05-06 15:58:22 | INFO | train_pipeline | ############################################################
+2026-05-06 15:58:22 | INFO | train_pipeline | [Iowa] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:58:22 | INFO | arima_model | [Iowa] Fitting SARIMA...
+2026-05-06 15:58:22 | INFO | arima_model | [Iowa] pmdarima not installed, using defaults
+2026-05-06 15:58:28 | INFO | arima_model | [Iowa] SARIMA fit done. AIC: 4668.09
+2026-05-06 15:58:49 | INFO | arima_model | [Iowa] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Iowa.pkl
+2026-05-06 15:58:49 | INFO | prophet_model | [Iowa] Fitting Prophet...
+2026-05-06 15:58:49 | ERROR | train_pipeline | [Iowa] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 15:58:49 | INFO | xgboost_model | [Iowa] Building features for XGBoost...
+2026-05-06 15:58:50 | INFO | xgboost_model | [Iowa] XGBoost train RMSE: 207,588
+2026-05-06 15:58:51 | INFO | visualization | [Iowa] Feature importance plot saved
+2026-05-06 15:58:51 | INFO | xgboost_model | [Iowa] Building features for XGBoost...
+2026-05-06 15:58:51 | INFO | xgboost_model | [Iowa] XGBoost train RMSE: 210,015
+2026-05-06 15:58:51 | INFO | xgboost_model | [Iowa] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Iowa.pkl
+2026-05-06 15:58:51 | INFO | lstm_model | [Iowa] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:59:03 | INFO | lstm_model | [Iowa] LSTM training done. Best val_loss: 0.006634
+2026-05-06 15:59:05 | INFO | lstm_model | [Iowa] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 15:59:17 | INFO | lstm_model | [Iowa] LSTM training done. Best val_loss: 0.005716
+2026-05-06 15:59:19 | INFO | lstm_model | [Iowa] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Iowa.h5
+2026-05-06 15:59:19 | INFO | evaluation | Best model by MAPE: lstm (2.18%)
+2026-05-06 15:59:19 | INFO | evaluation | 
+==================================================
+2026-05-06 15:59:19 | INFO | evaluation |   Results for: Iowa
+2026-05-06 15:59:19 | INFO | evaluation | ==================================================
+2026-05-06 15:59:19 | INFO | evaluation | 
+  model        rmse        mae  mape  rank
+   lstm  2896945.93 2519351.92  2.18     1
+xgboost  5461920.81 4645737.16  3.98     2
+ sarima 10514215.44 8275150.81  7.07     3
+2026-05-06 15:59:19 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 15:59:19 | INFO | evaluation | ==================================================
+
+2026-05-06 15:59:19 | INFO | visualization | [Iowa] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Iowa.png
+2026-05-06 15:59:19 | INFO | train_pipeline | 
+############################################################
+2026-05-06 15:59:19 | INFO | train_pipeline |   Training: Kansas
+2026-05-06 15:59:19 | INFO | train_pipeline | ############################################################
+2026-05-06 15:59:19 | INFO | train_pipeline | [Kansas] Train: 240 weeks, Val: 16 weeks
+2026-05-06 15:59:19 | INFO | arima_model | [Kansas] Fitting SARIMA...
+2026-05-06 15:59:19 | INFO | arima_model | [Kansas] pmdarima not installed, using defaults
+2026-05-06 15:59:27 | INFO | arima_model | [Kansas] SARIMA fit done. AIC: 4581.96
+2026-05-06 16:00:25 | INFO | arima_model | [Kansas] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Kansas.pkl
+2026-05-06 16:00:25 | INFO | prophet_model | [Kansas] Fitting Prophet...
+2026-05-06 16:00:25 | ERROR | train_pipeline | [Kansas] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:00:25 | INFO | xgboost_model | [Kansas] Building features for XGBoost...
+2026-05-06 16:00:25 | INFO | xgboost_model | [Kansas] XGBoost train RMSE: 154,286
+2026-05-06 16:00:26 | INFO | visualization | [Kansas] Feature importance plot saved
+2026-05-06 16:00:26 | INFO | xgboost_model | [Kansas] Building features for XGBoost...
+2026-05-06 16:00:26 | INFO | xgboost_model | [Kansas] XGBoost train RMSE: 161,572
+2026-05-06 16:00:27 | INFO | xgboost_model | [Kansas] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Kansas.pkl
+2026-05-06 16:00:27 | INFO | lstm_model | [Kansas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:00:43 | INFO | lstm_model | [Kansas] LSTM training done. Best val_loss: 0.005871
+2026-05-06 16:00:45 | INFO | lstm_model | [Kansas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:01:00 | INFO | lstm_model | [Kansas] LSTM training done. Best val_loss: 0.006239
+2026-05-06 16:01:02 | INFO | lstm_model | [Kansas] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Kansas.h5
+2026-05-06 16:01:02 | INFO | evaluation | Best model by MAPE: lstm (4.79%)
+2026-05-06 16:01:02 | INFO | evaluation | 
+==================================================
+2026-05-06 16:01:02 | INFO | evaluation |   Results for: Kansas
+2026-05-06 16:01:02 | INFO | evaluation | ==================================================
+2026-05-06 16:01:02 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 4724641.82 4433875.69  4.79     1
+xgboost 5696473.60 5003091.77  5.41     2
+ sarima 8592777.81 7090098.85  7.67     3
+2026-05-06 16:01:02 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:01:02 | INFO | evaluation | ==================================================
+
+2026-05-06 16:01:03 | INFO | visualization | [Kansas] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Kansas.png
+2026-05-06 16:01:03 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:01:03 | INFO | train_pipeline |   Training: Kentucky
+2026-05-06 16:01:03 | INFO | train_pipeline | ############################################################
+2026-05-06 16:01:03 | INFO | train_pipeline | [Kentucky] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:01:03 | INFO | arima_model | [Kentucky] Fitting SARIMA...
+2026-05-06 16:01:03 | INFO | arima_model | [Kentucky] pmdarima not installed, using defaults
+2026-05-06 16:01:15 | INFO | arima_model | [Kentucky] SARIMA fit done. AIC: 4760.76
+2026-05-06 16:01:31 | INFO | arima_model | [Kentucky] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Kentucky.pkl
+2026-05-06 16:01:31 | INFO | prophet_model | [Kentucky] Fitting Prophet...
+2026-05-06 16:01:31 | ERROR | train_pipeline | [Kentucky] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:01:31 | INFO | xgboost_model | [Kentucky] Building features for XGBoost...
+2026-05-06 16:01:32 | INFO | xgboost_model | [Kentucky] XGBoost train RMSE: 235,277
+2026-05-06 16:01:33 | INFO | visualization | [Kentucky] Feature importance plot saved
+2026-05-06 16:01:33 | INFO | xgboost_model | [Kentucky] Building features for XGBoost...
+2026-05-06 16:01:34 | INFO | xgboost_model | [Kentucky] XGBoost train RMSE: 301,102
+2026-05-06 16:01:34 | INFO | xgboost_model | [Kentucky] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Kentucky.pkl
+2026-05-06 16:01:34 | INFO | lstm_model | [Kentucky] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:01:54 | INFO | lstm_model | [Kentucky] LSTM training done. Best val_loss: 0.005193
+2026-05-06 16:01:56 | INFO | lstm_model | [Kentucky] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:02:12 | INFO | lstm_model | [Kentucky] LSTM training done. Best val_loss: 0.003961
+2026-05-06 16:02:14 | INFO | lstm_model | [Kentucky] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Kentucky.h5
+2026-05-06 16:02:14 | INFO | evaluation | Best model by MAPE: lstm (2.90%)
+2026-05-06 16:02:14 | INFO | evaluation | 
+==================================================
+2026-05-06 16:02:14 | INFO | evaluation |   Results for: Kentucky
+2026-05-06 16:02:14 | INFO | evaluation | ==================================================
+2026-05-06 16:02:14 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  5162666.78  4990177.01  2.90     1
+ sarima 14306699.54 12486020.24  7.23     2
+xgboost 13542366.65 13168832.80  7.63     3
+2026-05-06 16:02:14 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:02:14 | INFO | evaluation | ==================================================
+
+2026-05-06 16:02:15 | INFO | visualization | [Kentucky] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Kentucky.png
+2026-05-06 16:02:15 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:02:15 | INFO | train_pipeline |   Training: Louisiana
+2026-05-06 16:02:15 | INFO | train_pipeline | ############################################################
+2026-05-06 16:02:15 | INFO | train_pipeline | [Louisiana] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:02:15 | INFO | arima_model | [Louisiana] Fitting SARIMA...
+2026-05-06 16:02:15 | INFO | arima_model | [Louisiana] pmdarima not installed, using defaults
+2026-05-06 16:02:23 | INFO | arima_model | [Louisiana] SARIMA fit done. AIC: 4794.12
+2026-05-06 16:02:56 | INFO | arima_model | [Louisiana] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Louisiana.pkl
+2026-05-06 16:02:56 | INFO | prophet_model | [Louisiana] Fitting Prophet...
+2026-05-06 16:02:56 | ERROR | train_pipeline | [Louisiana] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:02:56 | INFO | xgboost_model | [Louisiana] Building features for XGBoost...
+2026-05-06 16:02:56 | INFO | xgboost_model | [Louisiana] XGBoost train RMSE: 364,937
+2026-05-06 16:02:57 | INFO | visualization | [Louisiana] Feature importance plot saved
+2026-05-06 16:02:57 | INFO | xgboost_model | [Louisiana] Building features for XGBoost...
+2026-05-06 16:02:58 | INFO | xgboost_model | [Louisiana] XGBoost train RMSE: 435,320
+2026-05-06 16:02:58 | INFO | xgboost_model | [Louisiana] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Louisiana.pkl
+2026-05-06 16:02:58 | INFO | lstm_model | [Louisiana] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:03:05 | INFO | lstm_model | [Louisiana] LSTM training done. Best val_loss: 0.005675
+2026-05-06 16:03:07 | INFO | lstm_model | [Louisiana] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:03:20 | INFO | lstm_model | [Louisiana] LSTM training done. Best val_loss: 0.005202
+2026-05-06 16:03:21 | INFO | lstm_model | [Louisiana] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Louisiana.h5
+2026-05-06 16:03:21 | INFO | evaluation | Best model by MAPE: lstm (2.69%)
+2026-05-06 16:03:21 | INFO | evaluation | 
+==================================================
+2026-05-06 16:03:21 | INFO | evaluation |   Results for: Louisiana
+2026-05-06 16:03:21 | INFO | evaluation | ==================================================
+2026-05-06 16:03:21 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  5230575.14  4851554.40  2.69     1
+xgboost 10082757.97  9454877.61  5.20     2
+ sarima 15207371.47 13184235.33  7.25     3
+2026-05-06 16:03:21 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:03:21 | INFO | evaluation | ==================================================
+
+2026-05-06 16:03:22 | INFO | visualization | [Louisiana] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Louisiana.png
+2026-05-06 16:03:22 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:03:22 | INFO | train_pipeline |   Training: Maine
+2026-05-06 16:03:22 | INFO | train_pipeline | ############################################################
+2026-05-06 16:03:22 | INFO | train_pipeline | [Maine] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:03:22 | INFO | arima_model | [Maine] Fitting SARIMA...
+2026-05-06 16:03:22 | INFO | arima_model | [Maine] pmdarima not installed, using defaults
+2026-05-06 16:03:30 | INFO | arima_model | [Maine] SARIMA fit done. AIC: 4456.31
+2026-05-06 16:03:39 | INFO | arima_model | [Maine] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Maine.pkl
+2026-05-06 16:03:39 | INFO | prophet_model | [Maine] Fitting Prophet...
+2026-05-06 16:03:39 | ERROR | train_pipeline | [Maine] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:03:39 | INFO | xgboost_model | [Maine] Building features for XGBoost...
+2026-05-06 16:03:40 | INFO | xgboost_model | [Maine] XGBoost train RMSE: 112,414
+2026-05-06 16:03:41 | INFO | visualization | [Maine] Feature importance plot saved
+2026-05-06 16:03:41 | INFO | xgboost_model | [Maine] Building features for XGBoost...
+2026-05-06 16:03:41 | INFO | xgboost_model | [Maine] XGBoost train RMSE: 114,692
+2026-05-06 16:03:42 | INFO | xgboost_model | [Maine] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Maine.pkl
+2026-05-06 16:03:42 | INFO | lstm_model | [Maine] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:03:52 | INFO | lstm_model | [Maine] LSTM training done. Best val_loss: 0.003149
+2026-05-06 16:03:54 | INFO | lstm_model | [Maine] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:04:11 | INFO | lstm_model | [Maine] LSTM training done. Best val_loss: 0.002479
+2026-05-06 16:04:13 | INFO | lstm_model | [Maine] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Maine.h5
+2026-05-06 16:04:13 | INFO | evaluation | Best model by MAPE: xgboost (2.08%)
+2026-05-06 16:04:13 | INFO | evaluation | 
+==================================================
+2026-05-06 16:04:13 | INFO | evaluation |   Results for: Maine
+2026-05-06 16:04:13 | INFO | evaluation | ==================================================
+2026-05-06 16:04:13 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+xgboost 1121130.53  957549.34  2.08     1
+   lstm 1342002.43 1244786.58  2.70     2
+ sarima 5740483.79 4500276.18  9.76     3
+2026-05-06 16:04:13 | INFO | evaluation | 
+  >> Best model: xgboost
+2026-05-06 16:04:13 | INFO | evaluation | ==================================================
+
+2026-05-06 16:04:13 | INFO | visualization | [Maine] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Maine.png
+2026-05-06 16:04:13 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:04:13 | INFO | train_pipeline |   Training: Maryland
+2026-05-06 16:04:13 | INFO | train_pipeline | ############################################################
+2026-05-06 16:04:13 | INFO | train_pipeline | [Maryland] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:04:13 | INFO | arima_model | [Maryland] Fitting SARIMA...
+2026-05-06 16:04:13 | INFO | arima_model | [Maryland] pmdarima not installed, using defaults
+2026-05-06 16:04:21 | INFO | arima_model | [Maryland] SARIMA fit done. AIC: 4747.81
+2026-05-06 16:04:42 | INFO | arima_model | [Maryland] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Maryland.pkl
+2026-05-06 16:04:42 | INFO | prophet_model | [Maryland] Fitting Prophet...
+2026-05-06 16:04:42 | ERROR | train_pipeline | [Maryland] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:04:42 | INFO | xgboost_model | [Maryland] Building features for XGBoost...
+2026-05-06 16:04:42 | INFO | xgboost_model | [Maryland] XGBoost train RMSE: 326,509
+2026-05-06 16:04:50 | INFO | visualization | [Maryland] Feature importance plot saved
+2026-05-06 16:04:50 | INFO | xgboost_model | [Maryland] Building features for XGBoost...
+2026-05-06 16:04:50 | INFO | xgboost_model | [Maryland] XGBoost train RMSE: 330,487
+2026-05-06 16:04:51 | INFO | xgboost_model | [Maryland] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Maryland.pkl
+2026-05-06 16:04:51 | INFO | lstm_model | [Maryland] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:05:10 | INFO | lstm_model | [Maryland] LSTM training done. Best val_loss: 0.003843
+2026-05-06 16:05:16 | INFO | lstm_model | [Maryland] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:05:24 | INFO | lstm_model | [Maryland] LSTM training done. Best val_loss: 0.001635
+2026-05-06 16:05:25 | INFO | lstm_model | [Maryland] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Maryland.h5
+2026-05-06 16:05:26 | INFO | evaluation | Best model by MAPE: xgboost (1.81%)
+2026-05-06 16:05:26 | INFO | evaluation | 
+==================================================
+2026-05-06 16:05:26 | INFO | evaluation |   Results for: Maryland
+2026-05-06 16:05:26 | INFO | evaluation | ==================================================
+2026-05-06 16:05:26 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+xgboost  3368623.25  2919448.52  1.81     1
+   lstm  6059248.99  5766469.06  3.57     2
+ sarima 13646638.58 12330633.33  7.64     3
+2026-05-06 16:05:26 | INFO | evaluation | 
+  >> Best model: xgboost
+2026-05-06 16:05:26 | INFO | evaluation | ==================================================
+
+2026-05-06 16:05:27 | INFO | visualization | [Maryland] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Maryland.png
+2026-05-06 16:05:27 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:05:27 | INFO | train_pipeline |   Training: Massachusetts
+2026-05-06 16:05:27 | INFO | train_pipeline | ############################################################
+2026-05-06 16:05:27 | INFO | train_pipeline | [Massachusetts] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:05:27 | INFO | arima_model | [Massachusetts] Fitting SARIMA...
+2026-05-06 16:05:27 | INFO | arima_model | [Massachusetts] pmdarima not installed, using defaults
+2026-05-06 16:05:34 | INFO | arima_model | [Massachusetts] SARIMA fit done. AIC: 4786.64
+2026-05-06 16:05:46 | INFO | arima_model | [Massachusetts] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Massachusetts.pkl
+2026-05-06 16:05:46 | INFO | prophet_model | [Massachusetts] Fitting Prophet...
+2026-05-06 16:05:46 | ERROR | train_pipeline | [Massachusetts] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:05:46 | INFO | xgboost_model | [Massachusetts] Building features for XGBoost...
+2026-05-06 16:05:46 | INFO | xgboost_model | [Massachusetts] XGBoost train RMSE: 325,654
+2026-05-06 16:05:48 | INFO | visualization | [Massachusetts] Feature importance plot saved
+2026-05-06 16:05:48 | INFO | xgboost_model | [Massachusetts] Building features for XGBoost...
+2026-05-06 16:05:49 | INFO | xgboost_model | [Massachusetts] XGBoost train RMSE: 350,772
+2026-05-06 16:05:49 | INFO | xgboost_model | [Massachusetts] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Massachusetts.pkl
+2026-05-06 16:05:49 | INFO | lstm_model | [Massachusetts] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:06:05 | INFO | lstm_model | [Massachusetts] LSTM training done. Best val_loss: 0.003289
+2026-05-06 16:06:09 | INFO | lstm_model | [Massachusetts] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:07:13 | INFO | lstm_model | [Massachusetts] LSTM training done. Best val_loss: 0.001481
+2026-05-06 16:07:14 | INFO | lstm_model | [Massachusetts] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Massachusetts.h5
+2026-05-06 16:07:14 | INFO | evaluation | Best model by MAPE: lstm (2.28%)
+2026-05-06 16:07:14 | INFO | evaluation | 
+==================================================
+2026-05-06 16:07:14 | INFO | evaluation |   Results for: Massachusetts
+2026-05-06 16:07:14 | INFO | evaluation | ==================================================
+2026-05-06 16:07:14 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  4398245.41  4231463.14  2.28     1
+xgboost  6350892.95  6183831.15  3.34     2
+ sarima 16473258.57 12607556.49  6.81     3
+2026-05-06 16:07:14 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:07:14 | INFO | evaluation | ==================================================
+
+2026-05-06 16:07:15 | INFO | visualization | [Massachusetts] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Massachusetts.png
+2026-05-06 16:07:15 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:07:15 | INFO | train_pipeline |   Training: Michigan
+2026-05-06 16:07:15 | INFO | train_pipeline | ############################################################
+2026-05-06 16:07:15 | INFO | train_pipeline | [Michigan] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:07:15 | INFO | arima_model | [Michigan] Fitting SARIMA...
+2026-05-06 16:07:15 | INFO | arima_model | [Michigan] pmdarima not installed, using defaults
+2026-05-06 16:07:24 | INFO | arima_model | [Michigan] SARIMA fit done. AIC: 4915.96
+2026-05-06 16:08:27 | INFO | arima_model | [Michigan] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Michigan.pkl
+2026-05-06 16:08:27 | INFO | prophet_model | [Michigan] Fitting Prophet...
+2026-05-06 16:08:27 | ERROR | train_pipeline | [Michigan] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:08:27 | INFO | xgboost_model | [Michigan] Building features for XGBoost...
+2026-05-06 16:08:27 | INFO | xgboost_model | [Michigan] XGBoost train RMSE: 533,878
+2026-05-06 16:08:30 | INFO | visualization | [Michigan] Feature importance plot saved
+2026-05-06 16:08:30 | INFO | xgboost_model | [Michigan] Building features for XGBoost...
+2026-05-06 16:08:33 | INFO | xgboost_model | [Michigan] XGBoost train RMSE: 540,046
+2026-05-06 16:08:33 | INFO | xgboost_model | [Michigan] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Michigan.pkl
+2026-05-06 16:08:33 | INFO | lstm_model | [Michigan] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:08:51 | INFO | lstm_model | [Michigan] LSTM training done. Best val_loss: 0.004366
+2026-05-06 16:08:54 | INFO | lstm_model | [Michigan] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:09:17 | INFO | lstm_model | [Michigan] LSTM training done. Best val_loss: 0.003814
+2026-05-06 16:09:23 | INFO | lstm_model | [Michigan] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Michigan.h5
+2026-05-06 16:09:23 | INFO | evaluation | Best model by MAPE: xgboost (1.93%)
+2026-05-06 16:09:23 | INFO | evaluation | 
+==================================================
+2026-05-06 16:09:23 | INFO | evaluation |   Results for: Michigan
+2026-05-06 16:09:23 | INFO | evaluation | ==================================================
+2026-05-06 16:09:23 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+xgboost  6404539.38  5532528.29  1.93     1
+   lstm  8823940.23  8545264.49  2.97     2
+ sarima 25323411.03 20026770.32  6.93     3
+2026-05-06 16:09:23 | INFO | evaluation | 
+  >> Best model: xgboost
+2026-05-06 16:09:23 | INFO | evaluation | ==================================================
+
+2026-05-06 16:09:42 | INFO | visualization | [Michigan] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Michigan.png
+2026-05-06 16:09:42 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:09:42 | INFO | train_pipeline |   Training: Minnesota
+2026-05-06 16:09:42 | INFO | train_pipeline | ############################################################
+2026-05-06 16:09:42 | INFO | train_pipeline | [Minnesota] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:09:42 | INFO | arima_model | [Minnesota] Fitting SARIMA...
+2026-05-06 16:09:42 | INFO | arima_model | [Minnesota] pmdarima not installed, using defaults
+2026-05-06 16:09:49 | INFO | arima_model | [Minnesota] SARIMA fit done. AIC: 4748.72
+2026-05-06 16:10:03 | INFO | arima_model | [Minnesota] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Minnesota.pkl
+2026-05-06 16:10:03 | INFO | prophet_model | [Minnesota] Fitting Prophet...
+2026-05-06 16:10:03 | ERROR | train_pipeline | [Minnesota] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:10:03 | INFO | xgboost_model | [Minnesota] Building features for XGBoost...
+2026-05-06 16:10:04 | INFO | xgboost_model | [Minnesota] XGBoost train RMSE: 192,206
+2026-05-06 16:10:06 | INFO | visualization | [Minnesota] Feature importance plot saved
+2026-05-06 16:10:06 | INFO | xgboost_model | [Minnesota] Building features for XGBoost...
+2026-05-06 16:10:07 | INFO | xgboost_model | [Minnesota] XGBoost train RMSE: 218,056
+2026-05-06 16:10:07 | INFO | xgboost_model | [Minnesota] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Minnesota.pkl
+2026-05-06 16:10:07 | INFO | lstm_model | [Minnesota] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:10:30 | INFO | lstm_model | [Minnesota] LSTM training done. Best val_loss: 0.005804
+2026-05-06 16:10:34 | INFO | lstm_model | [Minnesota] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:10:52 | INFO | lstm_model | [Minnesota] LSTM training done. Best val_loss: 0.005135
+2026-05-06 16:10:56 | INFO | lstm_model | [Minnesota] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Minnesota.h5
+2026-05-06 16:10:56 | INFO | evaluation | Best model by MAPE: lstm (1.81%)
+2026-05-06 16:10:56 | INFO | evaluation | 
+==================================================
+2026-05-06 16:10:56 | INFO | evaluation |   Results for: Minnesota
+2026-05-06 16:10:56 | INFO | evaluation | ==================================================
+2026-05-06 16:10:56 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  3368899.27  2796415.03  1.81     1
+xgboost  7338644.20  5975440.71  3.83     2
+ sarima 14012653.45 12070002.23  7.71     3
+2026-05-06 16:10:56 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:10:56 | INFO | evaluation | ==================================================
+
+2026-05-06 16:10:56 | INFO | visualization | [Minnesota] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Minnesota.png
+2026-05-06 16:10:57 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:10:57 | INFO | train_pipeline |   Training: Mississippi
+2026-05-06 16:10:57 | INFO | train_pipeline | ############################################################
+2026-05-06 16:10:57 | INFO | train_pipeline | [Mississippi] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:10:57 | INFO | arima_model | [Mississippi] Fitting SARIMA...
+2026-05-06 16:10:57 | INFO | arima_model | [Mississippi] pmdarima not installed, using defaults
+2026-05-06 16:11:07 | INFO | arima_model | [Mississippi] SARIMA fit done. AIC: 4586.59
+2026-05-06 16:11:44 | INFO | arima_model | [Mississippi] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Mississippi.pkl
+2026-05-06 16:11:44 | INFO | prophet_model | [Mississippi] Fitting Prophet...
+2026-05-06 16:11:44 | ERROR | train_pipeline | [Mississippi] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:11:44 | INFO | xgboost_model | [Mississippi] Building features for XGBoost...
+2026-05-06 16:11:45 | INFO | xgboost_model | [Mississippi] XGBoost train RMSE: 182,465
+2026-05-06 16:11:46 | INFO | visualization | [Mississippi] Feature importance plot saved
+2026-05-06 16:11:46 | INFO | xgboost_model | [Mississippi] Building features for XGBoost...
+2026-05-06 16:11:46 | INFO | xgboost_model | [Mississippi] XGBoost train RMSE: 174,353
+2026-05-06 16:11:47 | INFO | xgboost_model | [Mississippi] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Mississippi.pkl
+2026-05-06 16:11:47 | INFO | lstm_model | [Mississippi] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:11:58 | INFO | lstm_model | [Mississippi] LSTM training done. Best val_loss: 0.002310
+2026-05-06 16:12:00 | INFO | lstm_model | [Mississippi] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:13:07 | INFO | lstm_model | [Mississippi] LSTM training done. Best val_loss: 0.001960
+2026-05-06 16:13:13 | INFO | lstm_model | [Mississippi] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Mississippi.h5
+2026-05-06 16:13:13 | INFO | evaluation | Best model by MAPE: lstm (1.28%)
+2026-05-06 16:13:13 | INFO | evaluation | 
+==================================================
+2026-05-06 16:13:13 | INFO | evaluation |   Results for: Mississippi
+2026-05-06 16:13:13 | INFO | evaluation | ==================================================
+2026-05-06 16:13:13 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  2335930.10  1533098.96  1.28     1
+xgboost  4771377.79  4339363.00  3.55     2
+ sarima 12479441.16 11623254.69  9.46     3
+2026-05-06 16:13:13 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:13:13 | INFO | evaluation | ==================================================
+
+2026-05-06 16:13:21 | INFO | visualization | [Mississippi] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Mississippi.png
+2026-05-06 16:13:21 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:13:21 | INFO | train_pipeline |   Training: Missouri
+2026-05-06 16:13:21 | INFO | train_pipeline | ############################################################
+2026-05-06 16:13:21 | INFO | train_pipeline | [Missouri] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:13:21 | INFO | arima_model | [Missouri] Fitting SARIMA...
+2026-05-06 16:13:21 | INFO | arima_model | [Missouri] pmdarima not installed, using defaults
+2026-05-06 16:13:27 | INFO | arima_model | [Missouri] SARIMA fit done. AIC: 4793.76
+2026-05-06 16:13:40 | INFO | arima_model | [Missouri] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Missouri.pkl
+2026-05-06 16:13:40 | INFO | prophet_model | [Missouri] Fitting Prophet...
+2026-05-06 16:13:40 | ERROR | train_pipeline | [Missouri] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:13:40 | INFO | xgboost_model | [Missouri] Building features for XGBoost...
+2026-05-06 16:13:41 | INFO | xgboost_model | [Missouri] XGBoost train RMSE: 366,427
+2026-05-06 16:13:42 | INFO | visualization | [Missouri] Feature importance plot saved
+2026-05-06 16:13:42 | INFO | xgboost_model | [Missouri] Building features for XGBoost...
+2026-05-06 16:13:43 | INFO | xgboost_model | [Missouri] XGBoost train RMSE: 373,437
+2026-05-06 16:13:43 | INFO | xgboost_model | [Missouri] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Missouri.pkl
+2026-05-06 16:13:43 | INFO | lstm_model | [Missouri] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:13:58 | INFO | lstm_model | [Missouri] LSTM training done. Best val_loss: 0.006271
+2026-05-06 16:14:00 | INFO | lstm_model | [Missouri] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:14:09 | INFO | lstm_model | [Missouri] LSTM training done. Best val_loss: 0.004915
+2026-05-06 16:14:11 | INFO | lstm_model | [Missouri] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Missouri.h5
+2026-05-06 16:14:11 | INFO | evaluation | Best model by MAPE: lstm (4.57%)
+2026-05-06 16:14:11 | INFO | evaluation | 
+==================================================
+2026-05-06 16:14:11 | INFO | evaluation |   Results for: Missouri
+2026-05-06 16:14:11 | INFO | evaluation | ==================================================
+2026-05-06 16:14:11 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  9531460.62  9016901.98  4.57     1
+xgboost 13930153.42 13206437.81  6.69     2
+ sarima 17696639.57 14673328.66  7.43     3
+2026-05-06 16:14:11 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:14:11 | INFO | evaluation | ==================================================
+
+2026-05-06 16:14:11 | INFO | visualization | [Missouri] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Missouri.png
+2026-05-06 16:14:12 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:14:12 | INFO | train_pipeline |   Training: Nebraska
+2026-05-06 16:14:12 | INFO | train_pipeline | ############################################################
+2026-05-06 16:14:12 | INFO | train_pipeline | [Nebraska] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:14:12 | INFO | arima_model | [Nebraska] Fitting SARIMA...
+2026-05-06 16:14:12 | INFO | arima_model | [Nebraska] pmdarima not installed, using defaults
+2026-05-06 16:14:18 | INFO | arima_model | [Nebraska] SARIMA fit done. AIC: 4400.85
+2026-05-06 16:15:00 | INFO | arima_model | [Nebraska] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Nebraska.pkl
+2026-05-06 16:15:00 | INFO | prophet_model | [Nebraska] Fitting Prophet...
+2026-05-06 16:15:00 | ERROR | train_pipeline | [Nebraska] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:15:00 | INFO | xgboost_model | [Nebraska] Building features for XGBoost...
+2026-05-06 16:15:00 | INFO | xgboost_model | [Nebraska] XGBoost train RMSE: 103,655
+2026-05-06 16:15:04 | INFO | visualization | [Nebraska] Feature importance plot saved
+2026-05-06 16:15:04 | INFO | xgboost_model | [Nebraska] Building features for XGBoost...
+2026-05-06 16:15:05 | INFO | xgboost_model | [Nebraska] XGBoost train RMSE: 115,059
+2026-05-06 16:15:05 | INFO | xgboost_model | [Nebraska] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Nebraska.pkl
+2026-05-06 16:15:05 | INFO | lstm_model | [Nebraska] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:15:26 | INFO | lstm_model | [Nebraska] LSTM training done. Best val_loss: 0.003523
+2026-05-06 16:15:28 | INFO | lstm_model | [Nebraska] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:15:39 | INFO | lstm_model | [Nebraska] LSTM training done. Best val_loss: 0.003695
+2026-05-06 16:15:40 | INFO | lstm_model | [Nebraska] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Nebraska.h5
+2026-05-06 16:15:40 | INFO | evaluation | Best model by MAPE: lstm (4.71%)
+2026-05-06 16:15:40 | INFO | evaluation | 
+==================================================
+2026-05-06 16:15:40 | INFO | evaluation |   Results for: Nebraska
+2026-05-06 16:15:40 | INFO | evaluation | ==================================================
+2026-05-06 16:15:40 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 3199355.33 3005892.15  4.71     1
+xgboost 4346412.15 3914447.65  6.13     2
+ sarima 7661643.03 7209260.76 11.30     3
+2026-05-06 16:15:40 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:15:40 | INFO | evaluation | ==================================================
+
+2026-05-06 16:15:41 | INFO | visualization | [Nebraska] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Nebraska.png
+2026-05-06 16:15:41 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:15:41 | INFO | train_pipeline |   Training: Nevada
+2026-05-06 16:15:41 | INFO | train_pipeline | ############################################################
+2026-05-06 16:15:41 | INFO | train_pipeline | [Nevada] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:15:41 | INFO | arima_model | [Nevada] Fitting SARIMA...
+2026-05-06 16:15:41 | INFO | arima_model | [Nevada] pmdarima not installed, using defaults
+2026-05-06 16:15:46 | INFO | arima_model | [Nevada] SARIMA fit done. AIC: 4633.14
+2026-05-06 16:15:55 | INFO | arima_model | [Nevada] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Nevada.pkl
+2026-05-06 16:15:55 | INFO | prophet_model | [Nevada] Fitting Prophet...
+2026-05-06 16:15:55 | ERROR | train_pipeline | [Nevada] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:15:55 | INFO | xgboost_model | [Nevada] Building features for XGBoost...
+2026-05-06 16:15:56 | INFO | xgboost_model | [Nevada] XGBoost train RMSE: 190,853
+2026-05-06 16:15:57 | INFO | visualization | [Nevada] Feature importance plot saved
+2026-05-06 16:15:57 | INFO | xgboost_model | [Nevada] Building features for XGBoost...
+2026-05-06 16:15:57 | INFO | xgboost_model | [Nevada] XGBoost train RMSE: 190,558
+2026-05-06 16:15:58 | INFO | xgboost_model | [Nevada] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Nevada.pkl
+2026-05-06 16:15:58 | INFO | lstm_model | [Nevada] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:16:15 | INFO | lstm_model | [Nevada] LSTM training done. Best val_loss: 0.006159
+2026-05-06 16:16:17 | INFO | lstm_model | [Nevada] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:16:37 | INFO | lstm_model | [Nevada] LSTM training done. Best val_loss: 0.004788
+2026-05-06 16:16:38 | INFO | lstm_model | [Nevada] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Nevada.h5
+2026-05-06 16:16:38 | INFO | evaluation | Best model by MAPE: lstm (2.58%)
+2026-05-06 16:16:38 | INFO | evaluation | 
+==================================================
+2026-05-06 16:16:38 | INFO | evaluation |   Results for: Nevada
+2026-05-06 16:16:38 | INFO | evaluation | ==================================================
+2026-05-06 16:16:38 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 2764276.10 2615899.69  2.58     1
+xgboost 3760383.64 3655985.87  3.59     2
+ sarima 8920817.22 7463600.16  7.31     3
+2026-05-06 16:16:38 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:16:38 | INFO | evaluation | ==================================================
+
+2026-05-06 16:16:39 | INFO | visualization | [Nevada] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Nevada.png
+2026-05-06 16:16:39 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:16:39 | INFO | train_pipeline |   Training: New Hampshire
+2026-05-06 16:16:39 | INFO | train_pipeline | ############################################################
+2026-05-06 16:16:39 | INFO | train_pipeline | [New Hampshire] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:16:39 | INFO | arima_model | [New Hampshire] Fitting SARIMA...
+2026-05-06 16:16:39 | INFO | arima_model | [New Hampshire] pmdarima not installed, using defaults
+2026-05-06 16:16:46 | INFO | arima_model | [New Hampshire] SARIMA fit done. AIC: 4469.70
+2026-05-06 16:17:16 | INFO | arima_model | [New Hampshire] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_New_Hampshire.pkl
+2026-05-06 16:17:16 | INFO | prophet_model | [New Hampshire] Fitting Prophet...
+2026-05-06 16:17:16 | ERROR | train_pipeline | [New Hampshire] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:17:16 | INFO | xgboost_model | [New Hampshire] Building features for XGBoost...
+2026-05-06 16:17:16 | INFO | xgboost_model | [New Hampshire] XGBoost train RMSE: 116,699
+2026-05-06 16:17:21 | INFO | visualization | [New Hampshire] Feature importance plot saved
+2026-05-06 16:17:21 | INFO | xgboost_model | [New Hampshire] Building features for XGBoost...
+2026-05-06 16:17:21 | INFO | xgboost_model | [New Hampshire] XGBoost train RMSE: 122,841
+2026-05-06 16:17:21 | INFO | xgboost_model | [New Hampshire] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_New_Hampshire.pkl
+2026-05-06 16:17:21 | INFO | lstm_model | [New Hampshire] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:17:34 | INFO | lstm_model | [New Hampshire] LSTM training done. Best val_loss: 0.004228
+2026-05-06 16:17:36 | INFO | lstm_model | [New Hampshire] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:17:45 | INFO | lstm_model | [New Hampshire] LSTM training done. Best val_loss: 0.003331
+2026-05-06 16:17:46 | INFO | lstm_model | [New Hampshire] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_New_Hampshire.h5
+2026-05-06 16:17:46 | INFO | evaluation | Best model by MAPE: lstm (2.38%)
+2026-05-06 16:17:46 | INFO | evaluation | 
+==================================================
+2026-05-06 16:17:46 | INFO | evaluation |   Results for: New Hampshire
+2026-05-06 16:17:46 | INFO | evaluation | ==================================================
+2026-05-06 16:17:46 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 1385899.07 1322800.66  2.38     1
+xgboost 2215053.80 1742436.24  3.12     2
+ sarima 5579803.22 4089310.31  7.32     3
+2026-05-06 16:17:46 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:17:46 | INFO | evaluation | ==================================================
+
+2026-05-06 16:17:47 | INFO | visualization | [New Hampshire] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_New_Hampshire.png
+2026-05-06 16:17:47 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:17:47 | INFO | train_pipeline |   Training: New Mexico
+2026-05-06 16:17:47 | INFO | train_pipeline | ############################################################
+2026-05-06 16:17:47 | INFO | train_pipeline | [New Mexico] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:17:47 | INFO | arima_model | [New Mexico] Fitting SARIMA...
+2026-05-06 16:17:47 | INFO | arima_model | [New Mexico] pmdarima not installed, using defaults
+2026-05-06 16:17:54 | INFO | arima_model | [New Mexico] SARIMA fit done. AIC: 4532.11
+2026-05-06 16:18:04 | INFO | arima_model | [New Mexico] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_New_Mexico.pkl
+2026-05-06 16:18:04 | INFO | prophet_model | [New Mexico] Fitting Prophet...
+2026-05-06 16:18:04 | ERROR | train_pipeline | [New Mexico] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:18:04 | INFO | xgboost_model | [New Mexico] Building features for XGBoost...
+2026-05-06 16:18:04 | INFO | xgboost_model | [New Mexico] XGBoost train RMSE: 134,895
+2026-05-06 16:18:06 | INFO | visualization | [New Mexico] Feature importance plot saved
+2026-05-06 16:18:06 | INFO | xgboost_model | [New Mexico] Building features for XGBoost...
+2026-05-06 16:18:06 | INFO | xgboost_model | [New Mexico] XGBoost train RMSE: 137,460
+2026-05-06 16:18:06 | INFO | xgboost_model | [New Mexico] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_New_Mexico.pkl
+2026-05-06 16:18:06 | INFO | lstm_model | [New Mexico] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:18:20 | INFO | lstm_model | [New Mexico] LSTM training done. Best val_loss: 0.007894
+2026-05-06 16:18:22 | INFO | lstm_model | [New Mexico] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:18:43 | INFO | lstm_model | [New Mexico] LSTM training done. Best val_loss: 0.006113
+2026-05-06 16:18:45 | INFO | lstm_model | [New Mexico] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_New_Mexico.h5
+2026-05-06 16:18:45 | INFO | evaluation | Best model by MAPE: lstm (2.47%)
+2026-05-06 16:18:45 | INFO | evaluation | 
+==================================================
+2026-05-06 16:18:45 | INFO | evaluation |   Results for: New Mexico
+2026-05-06 16:18:45 | INFO | evaluation | ==================================================
+2026-05-06 16:18:45 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 2028780.12 1778534.23  2.47     1
+xgboost 2852893.31 2446818.86  3.35     2
+ sarima 6316904.23 5242453.32  7.18     3
+2026-05-06 16:18:45 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:18:45 | INFO | evaluation | ==================================================
+
+2026-05-06 16:18:46 | INFO | visualization | [New Mexico] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_New_Mexico.png
+2026-05-06 16:18:46 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:18:46 | INFO | train_pipeline |   Training: New York
+2026-05-06 16:18:46 | INFO | train_pipeline | ############################################################
+2026-05-06 16:18:46 | INFO | train_pipeline | [New York] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:18:46 | INFO | arima_model | [New York] Fitting SARIMA...
+2026-05-06 16:18:46 | INFO | arima_model | [New York] pmdarima not installed, using defaults
+2026-05-06 16:18:56 | INFO | arima_model | [New York] SARIMA fit done. AIC: 5013.28
+2026-05-06 16:20:21 | INFO | arima_model | [New York] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_New_York.pkl
+2026-05-06 16:20:21 | INFO | prophet_model | [New York] Fitting Prophet...
+2026-05-06 16:20:21 | ERROR | train_pipeline | [New York] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:20:21 | INFO | xgboost_model | [New York] Building features for XGBoost...
+2026-05-06 16:20:22 | INFO | xgboost_model | [New York] XGBoost train RMSE: 911,637
+2026-05-06 16:20:23 | INFO | visualization | [New York] Feature importance plot saved
+2026-05-06 16:20:23 | INFO | xgboost_model | [New York] Building features for XGBoost...
+2026-05-06 16:20:23 | INFO | xgboost_model | [New York] XGBoost train RMSE: 852,477
+2026-05-06 16:20:23 | INFO | xgboost_model | [New York] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_New_York.pkl
+2026-05-06 16:20:23 | INFO | lstm_model | [New York] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:20:34 | INFO | lstm_model | [New York] LSTM training done. Best val_loss: 0.003582
+2026-05-06 16:20:36 | INFO | lstm_model | [New York] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:20:49 | INFO | lstm_model | [New York] LSTM training done. Best val_loss: 0.002182
+2026-05-06 16:20:51 | INFO | lstm_model | [New York] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_New_York.h5
+2026-05-06 16:20:51 | INFO | evaluation | Best model by MAPE: lstm (2.37%)
+2026-05-06 16:20:51 | INFO | evaluation | 
+==================================================
+2026-05-06 16:20:51 | INFO | evaluation |   Results for: New York
+2026-05-06 16:20:51 | INFO | evaluation | ==================================================
+2026-05-06 16:20:51 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 10651899.67 10316125.04  2.37     1
+xgboost 17448970.46 15554852.05  3.57     2
+ sarima 38850549.65 30586601.25  7.02     3
+2026-05-06 16:20:51 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:20:51 | INFO | evaluation | ==================================================
+
+2026-05-06 16:20:51 | INFO | visualization | [New York] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_New_York.png
+2026-05-06 16:20:52 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:20:52 | INFO | train_pipeline |   Training: North Carolina
+2026-05-06 16:20:52 | INFO | train_pipeline | ############################################################
+2026-05-06 16:20:52 | INFO | train_pipeline | [North Carolina] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:20:52 | INFO | arima_model | [North Carolina] Fitting SARIMA...
+2026-05-06 16:20:52 | INFO | arima_model | [North Carolina] pmdarima not installed, using defaults
+2026-05-06 16:21:02 | INFO | arima_model | [North Carolina] SARIMA fit done. AIC: 4971.20
+2026-05-06 16:21:12 | INFO | arima_model | [North Carolina] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_North_Carolina.pkl
+2026-05-06 16:21:12 | INFO | prophet_model | [North Carolina] Fitting Prophet...
+2026-05-06 16:21:12 | ERROR | train_pipeline | [North Carolina] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:21:12 | INFO | xgboost_model | [North Carolina] Building features for XGBoost...
+2026-05-06 16:21:13 | INFO | xgboost_model | [North Carolina] XGBoost train RMSE: 682,912
+2026-05-06 16:21:14 | INFO | visualization | [North Carolina] Feature importance plot saved
+2026-05-06 16:21:14 | INFO | xgboost_model | [North Carolina] Building features for XGBoost...
+2026-05-06 16:21:15 | INFO | xgboost_model | [North Carolina] XGBoost train RMSE: 709,841
+2026-05-06 16:21:15 | INFO | xgboost_model | [North Carolina] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_North_Carolina.pkl
+2026-05-06 16:21:15 | INFO | lstm_model | [North Carolina] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:21:31 | INFO | lstm_model | [North Carolina] LSTM training done. Best val_loss: 0.004171
+2026-05-06 16:21:33 | INFO | lstm_model | [North Carolina] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:21:44 | INFO | lstm_model | [North Carolina] LSTM training done. Best val_loss: 0.002897
+2026-05-06 16:21:46 | INFO | lstm_model | [North Carolina] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_North_Carolina.h5
+2026-05-06 16:21:46 | INFO | evaluation | Best model by MAPE: lstm (2.65%)
+2026-05-06 16:21:46 | INFO | evaluation | 
+==================================================
+2026-05-06 16:21:46 | INFO | evaluation |   Results for: North Carolina
+2026-05-06 16:21:46 | INFO | evaluation | ==================================================
+2026-05-06 16:21:46 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  9851102.92  9454553.33  2.65     1
+xgboost 14536054.67 14092476.23  3.94     2
+ sarima 30123349.03 23830958.23  6.66     3
+2026-05-06 16:21:46 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:21:46 | INFO | evaluation | ==================================================
+
+2026-05-06 16:21:46 | INFO | visualization | [North Carolina] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_North_Carolina.png
+2026-05-06 16:21:46 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:21:46 | INFO | train_pipeline |   Training: Ohio
+2026-05-06 16:21:46 | INFO | train_pipeline | ############################################################
+2026-05-06 16:21:46 | INFO | train_pipeline | [Ohio] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:21:46 | INFO | arima_model | [Ohio] Fitting SARIMA...
+2026-05-06 16:21:46 | INFO | arima_model | [Ohio] pmdarima not installed, using defaults
+2026-05-06 16:21:54 | INFO | arima_model | [Ohio] SARIMA fit done. AIC: 4973.46
+2026-05-06 16:22:51 | INFO | arima_model | [Ohio] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Ohio.pkl
+2026-05-06 16:22:51 | INFO | prophet_model | [Ohio] Fitting Prophet...
+2026-05-06 16:22:51 | ERROR | train_pipeline | [Ohio] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:22:51 | INFO | xgboost_model | [Ohio] Building features for XGBoost...
+2026-05-06 16:22:52 | INFO | xgboost_model | [Ohio] XGBoost train RMSE: 788,792
+2026-05-06 16:22:53 | INFO | visualization | [Ohio] Feature importance plot saved
+2026-05-06 16:22:53 | INFO | xgboost_model | [Ohio] Building features for XGBoost...
+2026-05-06 16:22:53 | INFO | xgboost_model | [Ohio] XGBoost train RMSE: 850,476
+2026-05-06 16:22:53 | INFO | xgboost_model | [Ohio] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Ohio.pkl
+2026-05-06 16:22:53 | INFO | lstm_model | [Ohio] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:23:10 | INFO | lstm_model | [Ohio] LSTM training done. Best val_loss: 0.004477
+2026-05-06 16:23:12 | INFO | lstm_model | [Ohio] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:23:24 | INFO | lstm_model | [Ohio] LSTM training done. Best val_loss: 0.004395
+2026-05-06 16:23:25 | INFO | lstm_model | [Ohio] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Ohio.h5
+2026-05-06 16:23:25 | INFO | evaluation | Best model by MAPE: xgboost (3.02%)
+2026-05-06 16:23:25 | INFO | evaluation | 
+==================================================
+2026-05-06 16:23:25 | INFO | evaluation |   Results for: Ohio
+2026-05-06 16:23:25 | INFO | evaluation | ==================================================
+2026-05-06 16:23:25 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+xgboost 12324388.42 11199281.68  3.02     1
+   lstm 14280794.96 13848401.89  3.73     2
+ sarima 32404730.37 25401387.81  6.82     3
+2026-05-06 16:23:25 | INFO | evaluation | 
+  >> Best model: xgboost
+2026-05-06 16:23:25 | INFO | evaluation | ==================================================
+
+2026-05-06 16:23:26 | INFO | visualization | [Ohio] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Ohio.png
+2026-05-06 16:23:26 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:23:26 | INFO | train_pipeline |   Training: Oklahoma
+2026-05-06 16:23:26 | INFO | train_pipeline | ############################################################
+2026-05-06 16:23:26 | INFO | train_pipeline | [Oklahoma] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:23:26 | INFO | arima_model | [Oklahoma] Fitting SARIMA...
+2026-05-06 16:23:26 | INFO | arima_model | [Oklahoma] pmdarima not installed, using defaults
+2026-05-06 16:23:32 | INFO | arima_model | [Oklahoma] SARIMA fit done. AIC: 4724.58
+2026-05-06 16:23:40 | INFO | arima_model | [Oklahoma] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Oklahoma.pkl
+2026-05-06 16:23:40 | INFO | prophet_model | [Oklahoma] Fitting Prophet...
+2026-05-06 16:23:40 | ERROR | train_pipeline | [Oklahoma] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:23:40 | INFO | xgboost_model | [Oklahoma] Building features for XGBoost...
+2026-05-06 16:23:41 | INFO | xgboost_model | [Oklahoma] XGBoost train RMSE: 221,501
+2026-05-06 16:23:42 | INFO | visualization | [Oklahoma] Feature importance plot saved
+2026-05-06 16:23:42 | INFO | xgboost_model | [Oklahoma] Building features for XGBoost...
+2026-05-06 16:23:43 | INFO | xgboost_model | [Oklahoma] XGBoost train RMSE: 255,902
+2026-05-06 16:23:43 | INFO | xgboost_model | [Oklahoma] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Oklahoma.pkl
+2026-05-06 16:23:43 | INFO | lstm_model | [Oklahoma] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:23:53 | INFO | lstm_model | [Oklahoma] LSTM training done. Best val_loss: 0.002774
+2026-05-06 16:23:55 | INFO | lstm_model | [Oklahoma] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:24:12 | INFO | lstm_model | [Oklahoma] LSTM training done. Best val_loss: 0.003087
+2026-05-06 16:24:14 | INFO | lstm_model | [Oklahoma] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Oklahoma.h5
+2026-05-06 16:24:14 | INFO | evaluation | Best model by MAPE: lstm (1.82%)
+2026-05-06 16:24:14 | INFO | evaluation | 
+==================================================
+2026-05-06 16:24:14 | INFO | evaluation |   Results for: Oklahoma
+2026-05-06 16:24:14 | INFO | evaluation | ==================================================
+2026-05-06 16:24:14 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  2949065.57  2686391.26  1.82     1
+xgboost  6869025.73  6499351.16  4.38     2
+ sarima 12306752.04 10314901.53  6.94     3
+2026-05-06 16:24:14 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:24:14 | INFO | evaluation | ==================================================
+
+2026-05-06 16:24:14 | INFO | visualization | [Oklahoma] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Oklahoma.png
+2026-05-06 16:24:15 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:24:15 | INFO | train_pipeline |   Training: Oregon
+2026-05-06 16:24:15 | INFO | train_pipeline | ############################################################
+2026-05-06 16:24:15 | INFO | train_pipeline | [Oregon] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:24:15 | INFO | arima_model | [Oregon] Fitting SARIMA...
+2026-05-06 16:24:15 | INFO | arima_model | [Oregon] pmdarima not installed, using defaults
+2026-05-06 16:24:29 | INFO | arima_model | [Oregon] SARIMA fit done. AIC: 4667.44
+2026-05-06 16:25:02 | INFO | arima_model | [Oregon] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Oregon.pkl
+2026-05-06 16:25:02 | INFO | prophet_model | [Oregon] Fitting Prophet...
+2026-05-06 16:25:02 | ERROR | train_pipeline | [Oregon] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:25:02 | INFO | xgboost_model | [Oregon] Building features for XGBoost...
+2026-05-06 16:25:02 | INFO | xgboost_model | [Oregon] XGBoost train RMSE: 182,919
+2026-05-06 16:25:03 | INFO | visualization | [Oregon] Feature importance plot saved
+2026-05-06 16:25:03 | INFO | xgboost_model | [Oregon] Building features for XGBoost...
+2026-05-06 16:25:04 | INFO | xgboost_model | [Oregon] XGBoost train RMSE: 223,230
+2026-05-06 16:25:04 | INFO | xgboost_model | [Oregon] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Oregon.pkl
+2026-05-06 16:25:04 | INFO | lstm_model | [Oregon] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:25:26 | INFO | lstm_model | [Oregon] LSTM training done. Best val_loss: 0.005030
+2026-05-06 16:25:29 | INFO | lstm_model | [Oregon] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:25:46 | INFO | lstm_model | [Oregon] LSTM training done. Best val_loss: 0.004018
+2026-05-06 16:25:48 | INFO | lstm_model | [Oregon] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Oregon.h5
+2026-05-06 16:25:48 | INFO | evaluation | Best model by MAPE: lstm (2.54%)
+2026-05-06 16:25:48 | INFO | evaluation | 
+==================================================
+2026-05-06 16:25:48 | INFO | evaluation |   Results for: Oregon
+2026-05-06 16:25:48 | INFO | evaluation | ==================================================
+2026-05-06 16:25:48 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  3151924.96  2943497.22  2.54     1
+xgboost  7435260.05  6394518.98  5.49     2
+ sarima 13206925.29 10527250.79  9.04     3
+2026-05-06 16:25:48 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:25:48 | INFO | evaluation | ==================================================
+
+2026-05-06 16:25:50 | INFO | visualization | [Oregon] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Oregon.png
+2026-05-06 16:25:50 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:25:50 | INFO | train_pipeline |   Training: Pennsylvania
+2026-05-06 16:25:50 | INFO | train_pipeline | ############################################################
+2026-05-06 16:25:50 | INFO | train_pipeline | [Pennsylvania] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:25:50 | INFO | arima_model | [Pennsylvania] Fitting SARIMA...
+2026-05-06 16:25:50 | INFO | arima_model | [Pennsylvania] pmdarima not installed, using defaults
+2026-05-06 16:26:03 | INFO | arima_model | [Pennsylvania] SARIMA fit done. AIC: 4967.61
+2026-05-06 16:27:07 | INFO | arima_model | [Pennsylvania] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Pennsylvania.pkl
+2026-05-06 16:27:07 | INFO | prophet_model | [Pennsylvania] Fitting Prophet...
+2026-05-06 16:27:07 | ERROR | train_pipeline | [Pennsylvania] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:27:07 | INFO | xgboost_model | [Pennsylvania] Building features for XGBoost...
+2026-05-06 16:27:08 | INFO | xgboost_model | [Pennsylvania] XGBoost train RMSE: 672,816
+2026-05-06 16:27:13 | INFO | visualization | [Pennsylvania] Feature importance plot saved
+2026-05-06 16:27:13 | INFO | xgboost_model | [Pennsylvania] Building features for XGBoost...
+2026-05-06 16:27:15 | INFO | xgboost_model | [Pennsylvania] XGBoost train RMSE: 722,181
+2026-05-06 16:27:16 | INFO | xgboost_model | [Pennsylvania] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Pennsylvania.pkl
+2026-05-06 16:27:16 | INFO | lstm_model | [Pennsylvania] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:28:07 | INFO | lstm_model | [Pennsylvania] LSTM training done. Best val_loss: 0.003316
+2026-05-06 16:28:15 | INFO | lstm_model | [Pennsylvania] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:28:53 | INFO | lstm_model | [Pennsylvania] LSTM training done. Best val_loss: 0.002561
+2026-05-06 16:28:55 | INFO | lstm_model | [Pennsylvania] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Pennsylvania.h5
+2026-05-06 16:28:55 | INFO | evaluation | Best model by MAPE: lstm (3.25%)
+2026-05-06 16:28:55 | INFO | evaluation | 
+==================================================
+2026-05-06 16:28:55 | INFO | evaluation |   Results for: Pennsylvania
+2026-05-06 16:28:55 | INFO | evaluation | ==================================================
+2026-05-06 16:28:55 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 12306745.95 11806353.25  3.25     1
+xgboost 15025019.15 13722631.63  3.79     2
+ sarima 30920133.53 25207883.13  6.95     3
+2026-05-06 16:28:55 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:28:55 | INFO | evaluation | ==================================================
+
+2026-05-06 16:28:56 | INFO | visualization | [Pennsylvania] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Pennsylvania.png
+2026-05-06 16:28:57 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:28:57 | INFO | train_pipeline |   Training: Rhode Island
+2026-05-06 16:28:57 | INFO | train_pipeline | ############################################################
+2026-05-06 16:28:57 | INFO | train_pipeline | [Rhode Island] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:28:57 | INFO | arima_model | [Rhode Island] Fitting SARIMA...
+2026-05-06 16:28:57 | INFO | arima_model | [Rhode Island] pmdarima not installed, using defaults
+2026-05-06 16:29:07 | INFO | arima_model | [Rhode Island] SARIMA fit done. AIC: 4270.15
+2026-05-06 16:29:22 | INFO | arima_model | [Rhode Island] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Rhode_Island.pkl
+2026-05-06 16:29:22 | INFO | prophet_model | [Rhode Island] Fitting Prophet...
+2026-05-06 16:29:22 | ERROR | train_pipeline | [Rhode Island] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:29:22 | INFO | xgboost_model | [Rhode Island] Building features for XGBoost...
+2026-05-06 16:29:23 | INFO | xgboost_model | [Rhode Island] XGBoost train RMSE: 46,946
+2026-05-06 16:29:24 | INFO | visualization | [Rhode Island] Feature importance plot saved
+2026-05-06 16:29:24 | INFO | xgboost_model | [Rhode Island] Building features for XGBoost...
+2026-05-06 16:29:25 | INFO | xgboost_model | [Rhode Island] XGBoost train RMSE: 50,855
+2026-05-06 16:29:25 | INFO | xgboost_model | [Rhode Island] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Rhode_Island.pkl
+2026-05-06 16:29:25 | INFO | lstm_model | [Rhode Island] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:30:31 | INFO | lstm_model | [Rhode Island] LSTM training done. Best val_loss: 0.002739
+2026-05-06 16:30:34 | INFO | lstm_model | [Rhode Island] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:30:52 | INFO | lstm_model | [Rhode Island] LSTM training done. Best val_loss: 0.001734
+2026-05-06 16:30:54 | INFO | lstm_model | [Rhode Island] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Rhode_Island.h5
+2026-05-06 16:30:54 | INFO | evaluation | Best model by MAPE: lstm (1.31%)
+2026-05-06 16:30:54 | INFO | evaluation | 
+==================================================
+2026-05-06 16:30:54 | INFO | evaluation |   Results for: Rhode Island
+2026-05-06 16:30:54 | INFO | evaluation | ==================================================
+2026-05-06 16:30:54 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm  401659.81  347017.01  1.31     1
+xgboost  653631.86  622154.77  2.33     2
+ sarima 2447958.30 1862456.98  6.96     3
+2026-05-06 16:30:54 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:30:54 | INFO | evaluation | ==================================================
+
+2026-05-06 16:30:55 | INFO | visualization | [Rhode Island] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Rhode_Island.png
+2026-05-06 16:30:55 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:30:55 | INFO | train_pipeline |   Training: South Carolina
+2026-05-06 16:30:55 | INFO | train_pipeline | ############################################################
+2026-05-06 16:30:55 | INFO | train_pipeline | [South Carolina] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:30:55 | INFO | arima_model | [South Carolina] Fitting SARIMA...
+2026-05-06 16:30:55 | INFO | arima_model | [South Carolina] pmdarima not installed, using defaults
+2026-05-06 16:31:07 | INFO | arima_model | [South Carolina] SARIMA fit done. AIC: 4801.79
+2026-05-06 16:31:22 | INFO | arima_model | [South Carolina] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_South_Carolina.pkl
+2026-05-06 16:31:22 | INFO | prophet_model | [South Carolina] Fitting Prophet...
+2026-05-06 16:31:22 | ERROR | train_pipeline | [South Carolina] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:31:22 | INFO | xgboost_model | [South Carolina] Building features for XGBoost...
+2026-05-06 16:31:22 | INFO | xgboost_model | [South Carolina] XGBoost train RMSE: 436,191
+2026-05-06 16:31:24 | INFO | visualization | [South Carolina] Feature importance plot saved
+2026-05-06 16:31:24 | INFO | xgboost_model | [South Carolina] Building features for XGBoost...
+2026-05-06 16:31:24 | INFO | xgboost_model | [South Carolina] XGBoost train RMSE: 464,278
+2026-05-06 16:31:25 | INFO | xgboost_model | [South Carolina] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_South_Carolina.pkl
+2026-05-06 16:31:25 | INFO | lstm_model | [South Carolina] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:31:41 | INFO | lstm_model | [South Carolina] LSTM training done. Best val_loss: 0.004535
+2026-05-06 16:31:43 | INFO | lstm_model | [South Carolina] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:32:01 | INFO | lstm_model | [South Carolina] LSTM training done. Best val_loss: 0.003484
+2026-05-06 16:32:02 | INFO | lstm_model | [South Carolina] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_South_Carolina.h5
+2026-05-06 16:32:02 | INFO | evaluation | Best model by MAPE: lstm (2.15%)
+2026-05-06 16:32:02 | INFO | evaluation | 
+==================================================
+2026-05-06 16:32:02 | INFO | evaluation |   Results for: South Carolina
+2026-05-06 16:32:02 | INFO | evaluation | ==================================================
+2026-05-06 16:32:02 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  4544995.51  4181859.93  2.15     1
+xgboost  8727320.14  7901432.84  4.04     2
+ sarima 16546309.50 13210357.83  6.74     3
+2026-05-06 16:32:02 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:32:02 | INFO | evaluation | ==================================================
+
+2026-05-06 16:32:03 | INFO | visualization | [South Carolina] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_South_Carolina.png
+2026-05-06 16:32:03 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:32:03 | INFO | train_pipeline |   Training: South Dakota
+2026-05-06 16:32:03 | INFO | train_pipeline | ############################################################
+2026-05-06 16:32:03 | INFO | train_pipeline | [South Dakota] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:32:03 | INFO | arima_model | [South Dakota] Fitting SARIMA...
+2026-05-06 16:32:03 | INFO | arima_model | [South Dakota] pmdarima not installed, using defaults
+2026-05-06 16:32:09 | INFO | arima_model | [South Dakota] SARIMA fit done. AIC: 4325.06
+2026-05-06 16:33:05 | INFO | arima_model | [South Dakota] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_South_Dakota.pkl
+2026-05-06 16:33:05 | INFO | prophet_model | [South Dakota] Fitting Prophet...
+2026-05-06 16:33:05 | ERROR | train_pipeline | [South Dakota] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:33:05 | INFO | xgboost_model | [South Dakota] Building features for XGBoost...
+2026-05-06 16:33:05 | INFO | xgboost_model | [South Dakota] XGBoost train RMSE: 62,604
+2026-05-06 16:33:06 | INFO | visualization | [South Dakota] Feature importance plot saved
+2026-05-06 16:33:06 | INFO | xgboost_model | [South Dakota] Building features for XGBoost...
+2026-05-06 16:33:07 | INFO | xgboost_model | [South Dakota] XGBoost train RMSE: 61,082
+2026-05-06 16:33:07 | INFO | xgboost_model | [South Dakota] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_South_Dakota.pkl
+2026-05-06 16:33:07 | INFO | lstm_model | [South Dakota] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:33:21 | INFO | lstm_model | [South Dakota] LSTM training done. Best val_loss: 0.004689
+2026-05-06 16:33:23 | INFO | lstm_model | [South Dakota] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:33:30 | INFO | lstm_model | [South Dakota] LSTM training done. Best val_loss: 0.003915
+2026-05-06 16:33:32 | INFO | lstm_model | [South Dakota] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_South_Dakota.h5
+2026-05-06 16:33:32 | INFO | evaluation | Best model by MAPE: lstm (3.13%)
+2026-05-06 16:33:32 | INFO | evaluation | 
+==================================================
+2026-05-06 16:33:32 | INFO | evaluation |   Results for: South Dakota
+2026-05-06 16:33:32 | INFO | evaluation | ==================================================
+2026-05-06 16:33:32 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm  941378.24  889585.97  3.13     1
+xgboost 1637494.95 1455842.36  5.09     2
+ sarima 4179605.49 3535745.70 12.39     3
+2026-05-06 16:33:32 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:33:32 | INFO | evaluation | ==================================================
+
+2026-05-06 16:33:33 | INFO | visualization | [South Dakota] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_South_Dakota.png
+2026-05-06 16:33:33 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:33:33 | INFO | train_pipeline |   Training: Tennessee
+2026-05-06 16:33:33 | INFO | train_pipeline | ############################################################
+2026-05-06 16:33:33 | INFO | train_pipeline | [Tennessee] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:33:33 | INFO | arima_model | [Tennessee] Fitting SARIMA...
+2026-05-06 16:33:33 | INFO | arima_model | [Tennessee] pmdarima not installed, using defaults
+2026-05-06 16:33:38 | INFO | arima_model | [Tennessee] SARIMA fit done. AIC: 4872.84
+2026-05-06 16:34:00 | INFO | arima_model | [Tennessee] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Tennessee.pkl
+2026-05-06 16:34:00 | INFO | prophet_model | [Tennessee] Fitting Prophet...
+2026-05-06 16:34:00 | ERROR | train_pipeline | [Tennessee] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:34:00 | INFO | xgboost_model | [Tennessee] Building features for XGBoost...
+2026-05-06 16:34:02 | INFO | xgboost_model | [Tennessee] XGBoost train RMSE: 424,117
+2026-05-06 16:34:15 | INFO | visualization | [Tennessee] Feature importance plot saved
+2026-05-06 16:34:15 | INFO | xgboost_model | [Tennessee] Building features for XGBoost...
+2026-05-06 16:34:16 | INFO | xgboost_model | [Tennessee] XGBoost train RMSE: 475,779
+2026-05-06 16:34:18 | INFO | xgboost_model | [Tennessee] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Tennessee.pkl
+2026-05-06 16:34:18 | INFO | lstm_model | [Tennessee] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:34:33 | INFO | lstm_model | [Tennessee] LSTM training done. Best val_loss: 0.004254
+2026-05-06 16:34:35 | INFO | lstm_model | [Tennessee] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:35:06 | INFO | lstm_model | [Tennessee] LSTM training done. Best val_loss: 0.003689
+2026-05-06 16:35:08 | INFO | lstm_model | [Tennessee] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Tennessee.h5
+2026-05-06 16:35:08 | INFO | evaluation | Best model by MAPE: lstm (2.50%)
+2026-05-06 16:35:08 | INFO | evaluation | 
+==================================================
+2026-05-06 16:35:08 | INFO | evaluation |   Results for: Tennessee
+2026-05-06 16:35:08 | INFO | evaluation | ==================================================
+2026-05-06 16:35:08 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  6876536.87  6472221.02  2.50     1
+xgboost 10529871.16 10352442.06  3.98     2
+ sarima 22793310.21 18304118.34  7.03     3
+2026-05-06 16:35:08 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:35:08 | INFO | evaluation | ==================================================
+
+2026-05-06 16:35:09 | INFO | visualization | [Tennessee] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Tennessee.png
+2026-05-06 16:35:10 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:35:10 | INFO | train_pipeline |   Training: Texas
+2026-05-06 16:35:10 | INFO | train_pipeline | ############################################################
+2026-05-06 16:35:10 | INFO | train_pipeline | [Texas] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:35:10 | INFO | arima_model | [Texas] Fitting SARIMA...
+2026-05-06 16:35:10 | INFO | arima_model | [Texas] pmdarima not installed, using defaults
+2026-05-06 16:35:21 | INFO | arima_model | [Texas] SARIMA fit done. AIC: 5220.08
+2026-05-06 16:36:00 | INFO | arima_model | [Texas] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Texas.pkl
+2026-05-06 16:36:00 | INFO | prophet_model | [Texas] Fitting Prophet...
+2026-05-06 16:36:00 | ERROR | train_pipeline | [Texas] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:36:00 | INFO | xgboost_model | [Texas] Building features for XGBoost...
+2026-05-06 16:36:01 | INFO | xgboost_model | [Texas] XGBoost train RMSE: 1,574,227
+2026-05-06 16:36:02 | INFO | visualization | [Texas] Feature importance plot saved
+2026-05-06 16:36:02 | INFO | xgboost_model | [Texas] Building features for XGBoost...
+2026-05-06 16:36:02 | INFO | xgboost_model | [Texas] XGBoost train RMSE: 1,991,785
+2026-05-06 16:36:02 | INFO | xgboost_model | [Texas] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Texas.pkl
+2026-05-06 16:36:02 | INFO | lstm_model | [Texas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:36:15 | INFO | lstm_model | [Texas] LSTM training done. Best val_loss: 0.004811
+2026-05-06 16:36:16 | INFO | lstm_model | [Texas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:36:37 | INFO | lstm_model | [Texas] LSTM training done. Best val_loss: 0.004156
+2026-05-06 16:36:38 | INFO | lstm_model | [Texas] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Texas.h5
+2026-05-06 16:36:38 | INFO | evaluation | Best model by MAPE: lstm (1.80%)
+2026-05-06 16:36:38 | INFO | evaluation | 
+==================================================
+2026-05-06 16:36:38 | INFO | evaluation |   Results for: Texas
+2026-05-06 16:36:38 | INFO | evaluation | ==================================================
+2026-05-06 16:36:38 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 18477731.20 15961588.04  1.80     1
+xgboost 38017117.15 35352963.24  3.95     2
+ sarima 76601636.23 64287225.68  7.17     3
+2026-05-06 16:36:38 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:36:38 | INFO | evaluation | ==================================================
+
+2026-05-06 16:36:39 | INFO | visualization | [Texas] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Texas.png
+2026-05-06 16:36:39 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:36:39 | INFO | train_pipeline |   Training: Utah
+2026-05-06 16:36:39 | INFO | train_pipeline | ############################################################
+2026-05-06 16:36:39 | INFO | train_pipeline | [Utah] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:36:39 | INFO | arima_model | [Utah] Fitting SARIMA...
+2026-05-06 16:36:39 | INFO | arima_model | [Utah] pmdarima not installed, using defaults
+2026-05-06 16:36:48 | INFO | arima_model | [Utah] SARIMA fit done. AIC: 4583.42
+2026-05-06 16:37:21 | INFO | arima_model | [Utah] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Utah.pkl
+2026-05-06 16:37:21 | INFO | prophet_model | [Utah] Fitting Prophet...
+2026-05-06 16:37:21 | ERROR | train_pipeline | [Utah] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:37:21 | INFO | xgboost_model | [Utah] Building features for XGBoost...
+2026-05-06 16:37:21 | INFO | xgboost_model | [Utah] XGBoost train RMSE: 140,451
+2026-05-06 16:37:34 | INFO | visualization | [Utah] Feature importance plot saved
+2026-05-06 16:37:34 | INFO | xgboost_model | [Utah] Building features for XGBoost...
+2026-05-06 16:37:35 | INFO | xgboost_model | [Utah] XGBoost train RMSE: 154,828
+2026-05-06 16:37:35 | INFO | xgboost_model | [Utah] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Utah.pkl
+2026-05-06 16:37:35 | INFO | lstm_model | [Utah] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:37:49 | INFO | lstm_model | [Utah] LSTM training done. Best val_loss: 0.007323
+2026-05-06 16:37:51 | INFO | lstm_model | [Utah] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:38:12 | INFO | lstm_model | [Utah] LSTM training done. Best val_loss: 0.006812
+2026-05-06 16:38:14 | INFO | lstm_model | [Utah] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Utah.h5
+2026-05-06 16:38:14 | INFO | evaluation | Best model by MAPE: lstm (3.44%)
+2026-05-06 16:38:14 | INFO | evaluation | 
+==================================================
+2026-05-06 16:38:14 | INFO | evaluation |   Results for: Utah
+2026-05-06 16:38:14 | INFO | evaluation | ==================================================
+2026-05-06 16:38:14 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 3006658.07 2847511.89  3.44     1
+xgboost 4003944.90 3715858.88  4.46     2
+ sarima 7806316.05 5735669.96  6.89     3
+2026-05-06 16:38:14 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:38:14 | INFO | evaluation | ==================================================
+
+2026-05-06 16:38:15 | INFO | visualization | [Utah] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Utah.png
+2026-05-06 16:38:16 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:38:16 | INFO | train_pipeline |   Training: Vermont
+2026-05-06 16:38:16 | INFO | train_pipeline | ############################################################
+2026-05-06 16:38:16 | INFO | train_pipeline | [Vermont] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:38:16 | INFO | arima_model | [Vermont] Fitting SARIMA...
+2026-05-06 16:38:16 | INFO | arima_model | [Vermont] pmdarima not installed, using defaults
+2026-05-06 16:38:31 | INFO | arima_model | [Vermont] SARIMA fit done. AIC: 4159.77
+2026-05-06 16:40:08 | INFO | arima_model | [Vermont] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Vermont.pkl
+2026-05-06 16:40:08 | INFO | prophet_model | [Vermont] Fitting Prophet...
+2026-05-06 16:40:08 | ERROR | train_pipeline | [Vermont] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:40:08 | INFO | xgboost_model | [Vermont] Building features for XGBoost...
+2026-05-06 16:40:08 | INFO | xgboost_model | [Vermont] XGBoost train RMSE: 35,624
+2026-05-06 16:40:10 | INFO | visualization | [Vermont] Feature importance plot saved
+2026-05-06 16:40:10 | INFO | xgboost_model | [Vermont] Building features for XGBoost...
+2026-05-06 16:40:10 | INFO | xgboost_model | [Vermont] XGBoost train RMSE: 38,052
+2026-05-06 16:40:11 | INFO | xgboost_model | [Vermont] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Vermont.pkl
+2026-05-06 16:40:11 | INFO | lstm_model | [Vermont] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:40:42 | INFO | lstm_model | [Vermont] LSTM training done. Best val_loss: 0.002502
+2026-05-06 16:40:45 | INFO | lstm_model | [Vermont] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:41:11 | INFO | lstm_model | [Vermont] LSTM training done. Best val_loss: 0.001436
+2026-05-06 16:41:14 | INFO | lstm_model | [Vermont] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Vermont.h5
+2026-05-06 16:41:14 | INFO | evaluation | Best model by MAPE: xgboost (1.21%)
+2026-05-06 16:41:14 | INFO | evaluation | 
+==================================================
+2026-05-06 16:41:14 | INFO | evaluation |   Results for: Vermont
+2026-05-06 16:41:14 | INFO | evaluation | ==================================================
+2026-05-06 16:41:14 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+xgboost  294079.12  219660.51  1.21     1
+   lstm  293425.54  252612.70  1.40     2
+ sarima 1641445.87 1332488.36  7.35     3
+2026-05-06 16:41:14 | INFO | evaluation | 
+  >> Best model: xgboost
+2026-05-06 16:41:14 | INFO | evaluation | ==================================================
+
+2026-05-06 16:41:16 | INFO | visualization | [Vermont] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Vermont.png
+2026-05-06 16:41:16 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:41:16 | INFO | train_pipeline |   Training: Virginia
+2026-05-06 16:41:16 | INFO | train_pipeline | ############################################################
+2026-05-06 16:41:16 | INFO | train_pipeline | [Virginia] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:41:16 | INFO | arima_model | [Virginia] Fitting SARIMA...
+2026-05-06 16:41:16 | INFO | arima_model | [Virginia] pmdarima not installed, using defaults
+2026-05-06 16:41:29 | INFO | arima_model | [Virginia] SARIMA fit done. AIC: 4903.92
+2026-05-06 16:42:35 | INFO | arima_model | [Virginia] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Virginia.pkl
+2026-05-06 16:42:35 | INFO | prophet_model | [Virginia] Fitting Prophet...
+2026-05-06 16:42:35 | ERROR | train_pipeline | [Virginia] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:42:35 | INFO | xgboost_model | [Virginia] Building features for XGBoost...
+2026-05-06 16:42:37 | INFO | xgboost_model | [Virginia] XGBoost train RMSE: 482,452
+2026-05-06 16:42:38 | INFO | visualization | [Virginia] Feature importance plot saved
+2026-05-06 16:42:38 | INFO | xgboost_model | [Virginia] Building features for XGBoost...
+2026-05-06 16:42:38 | INFO | xgboost_model | [Virginia] XGBoost train RMSE: 511,681
+2026-05-06 16:42:39 | INFO | xgboost_model | [Virginia] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Virginia.pkl
+2026-05-06 16:42:39 | INFO | lstm_model | [Virginia] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:42:55 | INFO | lstm_model | [Virginia] LSTM training done. Best val_loss: 0.004111
+2026-05-06 16:42:57 | INFO | lstm_model | [Virginia] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:43:04 | INFO | lstm_model | [Virginia] LSTM training done. Best val_loss: 0.003234
+2026-05-06 16:43:06 | INFO | lstm_model | [Virginia] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Virginia.h5
+2026-05-06 16:43:06 | INFO | evaluation | Best model by MAPE: lstm (2.86%)
+2026-05-06 16:43:06 | INFO | evaluation | 
+==================================================
+2026-05-06 16:43:06 | INFO | evaluation |   Results for: Virginia
+2026-05-06 16:43:06 | INFO | evaluation | ==================================================
+2026-05-06 16:43:06 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  8683696.58  8320113.70  2.86     1
+xgboost 15050658.12 14141667.31  4.86     2
+ sarima 23828198.41 19858627.50  6.81     3
+2026-05-06 16:43:06 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:43:06 | INFO | evaluation | ==================================================
+
+2026-05-06 16:43:07 | INFO | visualization | [Virginia] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Virginia.png
+2026-05-06 16:43:07 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:43:07 | INFO | train_pipeline |   Training: Washington
+2026-05-06 16:43:07 | INFO | train_pipeline | ############################################################
+2026-05-06 16:43:07 | INFO | train_pipeline | [Washington] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:43:07 | INFO | arima_model | [Washington] Fitting SARIMA...
+2026-05-06 16:43:07 | INFO | arima_model | [Washington] pmdarima not installed, using defaults
+2026-05-06 16:43:14 | INFO | arima_model | [Washington] SARIMA fit done. AIC: 4788.27
+2026-05-06 16:43:24 | INFO | arima_model | [Washington] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Washington.pkl
+2026-05-06 16:43:24 | INFO | prophet_model | [Washington] Fitting Prophet...
+2026-05-06 16:43:24 | ERROR | train_pipeline | [Washington] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 16:43:24 | INFO | xgboost_model | [Washington] Building features for XGBoost...
+2026-05-06 16:43:24 | INFO | xgboost_model | [Washington] XGBoost train RMSE: 296,546
+2026-05-06 16:43:59 | INFO | visualization | [Washington] Feature importance plot saved
+2026-05-06 16:43:59 | INFO | xgboost_model | [Washington] Building features for XGBoost...
+2026-05-06 16:43:59 | INFO | xgboost_model | [Washington] XGBoost train RMSE: 359,390
+2026-05-06 16:44:00 | INFO | xgboost_model | [Washington] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Washington.pkl
+2026-05-06 16:44:00 | INFO | lstm_model | [Washington] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:44:35 | INFO | lstm_model | [Washington] LSTM training done. Best val_loss: 0.003643
+2026-05-06 16:44:37 | INFO | lstm_model | [Washington] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 16:44:49 | INFO | lstm_model | [Washington] LSTM training done. Best val_loss: 0.002492
+2026-05-06 16:44:50 | INFO | lstm_model | [Washington] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Washington.h5
+2026-05-06 16:44:50 | INFO | evaluation | Best model by MAPE: lstm (1.00%)
+2026-05-06 16:44:50 | INFO | evaluation | 
+==================================================
+2026-05-06 16:44:50 | INFO | evaluation |   Results for: Washington
+2026-05-06 16:44:50 | INFO | evaluation | ==================================================
+2026-05-06 16:44:50 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  2757712.22  1850574.85  1.00     1
+xgboost  6999734.32  5826929.65  3.11     2
+ sarima 17025704.02 12921786.88  6.88     3
+2026-05-06 16:44:50 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 16:44:50 | INFO | evaluation | ==================================================
+
+2026-05-06 16:44:51 | INFO | visualization | [Washington] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Washington.png
+2026-05-06 16:44:51 | INFO | train_pipeline | 
+############################################################
+2026-05-06 16:44:51 | INFO | train_pipeline |   Training: West Virginia
+2026-05-06 16:44:51 | INFO | train_pipeline | ############################################################
+2026-05-06 16:44:51 | INFO | train_pipeline | [West Virginia] Train: 240 weeks, Val: 16 weeks
+2026-05-06 16:44:51 | INFO | arima_model | [West Virginia] Fitting SARIMA...
+2026-05-06 16:44:51 | INFO | arima_model | [West Virginia] pmdarima not installed, using defaults
+2026-05-06 16:44:57 | INFO | arima_model | [West Virginia] SARIMA fit done. AIC: 4527.33
+2026-05-06 16:51:40 | INFO | api | Forecast request: state=Texas, n_weeks=8
+2026-05-06 16:51:40 | INFO | predict_pipeline | [Texas] Generating 8-week forecast...
+2026-05-06 16:51:40 | INFO | predict_pipeline | [Texas] Using model: lstm
+2026-05-06 16:51:40 | INFO | preprocessing | Loading data from C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\data\sales_data.xlsx
+2026-05-06 16:51:42 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 16:51:42 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 16:51:42 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 16:51:43 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 18:53:56 | INFO | api | Forecast request: state=Texas, n_weeks=8
+2026-05-06 18:53:56 | INFO | predict_pipeline | [Texas] Generating 8-week forecast...
+2026-05-06 18:53:56 | INFO | predict_pipeline | [Texas] Using model: lstm
+2026-05-06 18:53:56 | INFO | preprocessing | Loading data from C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\data\sales_data.xlsx
+2026-05-06 18:53:58 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 18:53:58 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 18:53:58 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 18:53:58 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 18:53:58 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 18:53:58 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 18:53:59 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 18:54:00 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 21:02:32 | INFO | main | Data path: C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\data\sales_data.xlsx
+2026-05-06 21:02:32 | INFO | main | Training all available states
+2026-05-06 21:02:32 | INFO | train_pipeline | Starting full training pipeline...
+2026-05-06 21:02:32 | INFO | preprocessing | Loading data from C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\data\sales_data.xlsx
+2026-05-06 21:02:33 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 21:02:33 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 21:02:33 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 21:02:34 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:02:34 | INFO | train_pipeline |   Training: Alabama
+2026-05-06 21:02:34 | INFO | train_pipeline | ############################################################
+2026-05-06 21:02:34 | INFO | train_pipeline | [Alabama] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:02:34 | INFO | arima_model | [Alabama] Fitting SARIMA...
+2026-05-06 21:02:35 | INFO | arima_model | [Alabama] pmdarima not installed, using defaults
+2026-05-06 21:02:43 | INFO | arima_model | [Alabama] SARIMA fit done. AIC: 4829.99
+2026-05-06 21:03:20 | INFO | arima_model | [Alabama] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Alabama.pkl
+2026-05-06 21:03:20 | INFO | prophet_model | [Alabama] Fitting Prophet...
+2026-05-06 21:03:20 | ERROR | train_pipeline | [Alabama] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:03:21 | INFO | xgboost_model | [Alabama] Building features for XGBoost...
+2026-05-06 21:03:21 | INFO | xgboost_model | [Alabama] XGBoost train RMSE: 413,573
+2026-05-06 21:03:23 | INFO | visualization | [Alabama] Feature importance plot saved
+2026-05-06 21:03:23 | INFO | xgboost_model | [Alabama] Building features for XGBoost...
+2026-05-06 21:03:24 | INFO | xgboost_model | [Alabama] XGBoost train RMSE: 430,982
+2026-05-06 21:03:24 | INFO | xgboost_model | [Alabama] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Alabama.pkl
+2026-05-06 21:03:36 | INFO | lstm_model | [Alabama] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:03:57 | INFO | lstm_model | [Alabama] LSTM training done. Best val_loss: 0.004428
+2026-05-06 21:03:59 | INFO | lstm_model | [Alabama] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:04:22 | INFO | lstm_model | [Alabama] LSTM training done. Best val_loss: 0.003609
+2026-05-06 21:04:25 | INFO | lstm_model | [Alabama] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Alabama.h5
+2026-05-06 21:04:25 | INFO | evaluation | Best model by MAPE: lstm (1.06%)
+2026-05-06 21:04:25 | INFO | evaluation | 
+==================================================
+2026-05-06 21:04:25 | INFO | evaluation |   Results for: Alabama
+2026-05-06 21:04:25 | INFO | evaluation | ==================================================
+2026-05-06 21:04:25 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  3809599.37  2088049.97  1.06     1
+xgboost  5623386.79  5307728.27  2.63     2
+ sarima 17806139.02 15743718.73  7.78     3
+2026-05-06 21:04:25 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:04:25 | INFO | evaluation | ==================================================
+
+2026-05-06 21:04:26 | INFO | visualization | [Alabama] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Alabama.png
+2026-05-06 21:04:26 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:04:26 | INFO | train_pipeline |   Training: Arizona
+2026-05-06 21:04:26 | INFO | train_pipeline | ############################################################
+2026-05-06 21:04:26 | INFO | train_pipeline | [Arizona] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:04:26 | INFO | arima_model | [Arizona] Fitting SARIMA...
+2026-05-06 21:04:26 | INFO | arima_model | [Arizona] pmdarima not installed, using defaults
+2026-05-06 21:04:38 | INFO | arima_model | [Arizona] SARIMA fit done. AIC: 4826.98
+2026-05-06 21:04:50 | INFO | arima_model | [Arizona] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Arizona.pkl
+2026-05-06 21:04:50 | INFO | prophet_model | [Arizona] Fitting Prophet...
+2026-05-06 21:04:50 | ERROR | train_pipeline | [Arizona] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:04:50 | INFO | xgboost_model | [Arizona] Building features for XGBoost...
+2026-05-06 21:04:51 | INFO | xgboost_model | [Arizona] XGBoost train RMSE: 337,590
+2026-05-06 21:04:52 | INFO | visualization | [Arizona] Feature importance plot saved
+2026-05-06 21:04:52 | INFO | xgboost_model | [Arizona] Building features for XGBoost...
+2026-05-06 21:04:52 | INFO | xgboost_model | [Arizona] XGBoost train RMSE: 351,127
+2026-05-06 21:04:53 | INFO | xgboost_model | [Arizona] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Arizona.pkl
+2026-05-06 21:04:53 | INFO | lstm_model | [Arizona] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:05:06 | INFO | lstm_model | [Arizona] LSTM training done. Best val_loss: 0.007546
+2026-05-06 21:05:07 | INFO | lstm_model | [Arizona] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:05:20 | INFO | lstm_model | [Arizona] LSTM training done. Best val_loss: 0.007048
+2026-05-06 21:05:21 | INFO | lstm_model | [Arizona] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Arizona.h5
+2026-05-06 21:05:21 | INFO | evaluation | Best model by MAPE: lstm (3.87%)
+2026-05-06 21:05:21 | INFO | evaluation | 
+==================================================
+2026-05-06 21:05:21 | INFO | evaluation |   Results for: Arizona
+2026-05-06 21:05:21 | INFO | evaluation | ==================================================
+2026-05-06 21:05:21 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  9118347.81  8728353.79  3.87     1
+ sarima 18183957.16 15059076.75  6.65     2
+xgboost 25823575.26 24808834.44 10.95     3
+2026-05-06 21:05:21 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:05:21 | INFO | evaluation | ==================================================
+
+2026-05-06 21:05:22 | INFO | visualization | [Arizona] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Arizona.png
+2026-05-06 21:05:22 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:05:22 | INFO | train_pipeline |   Training: Arkansas
+2026-05-06 21:05:22 | INFO | train_pipeline | ############################################################
+2026-05-06 21:05:22 | INFO | train_pipeline | [Arkansas] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:05:22 | INFO | arima_model | [Arkansas] Fitting SARIMA...
+2026-05-06 21:05:22 | INFO | arima_model | [Arkansas] pmdarima not installed, using defaults
+2026-05-06 21:05:28 | INFO | arima_model | [Arkansas] SARIMA fit done. AIC: 4645.77
+2026-05-06 21:06:17 | INFO | arima_model | [Arkansas] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Arkansas.pkl
+2026-05-06 21:06:17 | INFO | prophet_model | [Arkansas] Fitting Prophet...
+2026-05-06 21:06:17 | ERROR | train_pipeline | [Arkansas] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:06:17 | INFO | xgboost_model | [Arkansas] Building features for XGBoost...
+2026-05-06 21:06:18 | INFO | xgboost_model | [Arkansas] XGBoost train RMSE: 197,363
+2026-05-06 21:06:19 | INFO | visualization | [Arkansas] Feature importance plot saved
+2026-05-06 21:06:19 | INFO | xgboost_model | [Arkansas] Building features for XGBoost...
+2026-05-06 21:06:20 | INFO | xgboost_model | [Arkansas] XGBoost train RMSE: 203,031
+2026-05-06 21:06:20 | INFO | xgboost_model | [Arkansas] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Arkansas.pkl
+2026-05-06 21:06:20 | INFO | lstm_model | [Arkansas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:06:37 | INFO | lstm_model | [Arkansas] LSTM training done. Best val_loss: 0.004730
+2026-05-06 21:06:39 | INFO | lstm_model | [Arkansas] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:06:54 | INFO | lstm_model | [Arkansas] LSTM training done. Best val_loss: 0.004413
+2026-05-06 21:06:55 | INFO | lstm_model | [Arkansas] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Arkansas.h5
+2026-05-06 21:06:55 | INFO | evaluation | Best model by MAPE: lstm (3.55%)
+2026-05-06 21:06:55 | INFO | evaluation | 
+==================================================
+2026-05-06 21:06:55 | INFO | evaluation |   Results for: Arkansas
+2026-05-06 21:06:55 | INFO | evaluation | ==================================================
+2026-05-06 21:06:55 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 4158022.75 3954723.12  3.55     1
+xgboost 6292785.64 5779222.47  5.19     2
+ sarima 9554016.51 7529120.36  6.76     3
+2026-05-06 21:06:55 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:06:55 | INFO | evaluation | ==================================================
+
+2026-05-06 21:06:56 | INFO | visualization | [Arkansas] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Arkansas.png
+2026-05-06 21:06:56 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:06:56 | INFO | train_pipeline |   Training: California
+2026-05-06 21:06:56 | INFO | train_pipeline | ############################################################
+2026-05-06 21:06:56 | INFO | train_pipeline | [California] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:06:56 | INFO | arima_model | [California] Fitting SARIMA...
+2026-05-06 21:06:56 | INFO | arima_model | [California] pmdarima not installed, using defaults
+2026-05-06 21:07:04 | INFO | arima_model | [California] SARIMA fit done. AIC: 5213.43
+2026-05-06 21:07:23 | INFO | arima_model | [California] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_California.pkl
+2026-05-06 21:07:23 | INFO | prophet_model | [California] Fitting Prophet...
+2026-05-06 21:07:23 | ERROR | train_pipeline | [California] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:07:23 | INFO | xgboost_model | [California] Building features for XGBoost...
+2026-05-06 21:07:23 | INFO | xgboost_model | [California] XGBoost train RMSE: 1,496,856
+2026-05-06 21:07:24 | INFO | visualization | [California] Feature importance plot saved
+2026-05-06 21:07:24 | INFO | xgboost_model | [California] Building features for XGBoost...
+2026-05-06 21:07:24 | INFO | xgboost_model | [California] XGBoost train RMSE: 1,707,349
+2026-05-06 21:07:25 | INFO | xgboost_model | [California] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_California.pkl
+2026-05-06 21:07:25 | INFO | lstm_model | [California] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:07:47 | INFO | lstm_model | [California] LSTM training done. Best val_loss: 0.004005
+2026-05-06 21:07:49 | INFO | lstm_model | [California] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:08:09 | INFO | lstm_model | [California] LSTM training done. Best val_loss: 0.004540
+2026-05-06 21:08:11 | INFO | lstm_model | [California] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_California.h5
+2026-05-06 21:08:11 | INFO | evaluation | Best model by MAPE: lstm (4.84%)
+2026-05-06 21:08:11 | INFO | evaluation | 
+==================================================
+2026-05-06 21:08:11 | INFO | evaluation |   Results for: California
+2026-05-06 21:08:11 | INFO | evaluation | ==================================================
+2026-05-06 21:08:11 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm 43698797.00 41760209.84  4.84     1
+xgboost 59475282.64 57457768.09  6.66     2
+ sarima 82526788.13 65304815.35  7.59     3
+2026-05-06 21:08:11 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:08:11 | INFO | evaluation | ==================================================
+
+2026-05-06 21:08:12 | INFO | visualization | [California] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_California.png
+2026-05-06 21:08:12 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:08:12 | INFO | train_pipeline |   Training: Colorado
+2026-05-06 21:08:12 | INFO | train_pipeline | ############################################################
+2026-05-06 21:08:12 | INFO | train_pipeline | [Colorado] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:08:12 | INFO | arima_model | [Colorado] Fitting SARIMA...
+2026-05-06 21:08:12 | INFO | arima_model | [Colorado] pmdarima not installed, using defaults
+2026-05-06 21:08:30 | INFO | arima_model | [Colorado] SARIMA fit done. AIC: 4776.14
+2026-05-06 21:08:47 | INFO | arima_model | [Colorado] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Colorado.pkl
+2026-05-06 21:08:47 | INFO | prophet_model | [Colorado] Fitting Prophet...
+2026-05-06 21:08:47 | ERROR | train_pipeline | [Colorado] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:08:47 | INFO | xgboost_model | [Colorado] Building features for XGBoost...
+2026-05-06 21:08:48 | INFO | xgboost_model | [Colorado] XGBoost train RMSE: 309,687
+2026-05-06 21:08:50 | INFO | visualization | [Colorado] Feature importance plot saved
+2026-05-06 21:08:50 | INFO | xgboost_model | [Colorado] Building features for XGBoost...
+2026-05-06 21:08:50 | INFO | xgboost_model | [Colorado] XGBoost train RMSE: 324,628
+2026-05-06 21:08:51 | INFO | xgboost_model | [Colorado] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Colorado.pkl
+2026-05-06 21:08:51 | INFO | lstm_model | [Colorado] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:09:18 | INFO | lstm_model | [Colorado] LSTM training done. Best val_loss: 0.003668
+2026-05-06 21:09:21 | INFO | lstm_model | [Colorado] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:09:41 | INFO | lstm_model | [Colorado] LSTM training done. Best val_loss: 0.003369
+2026-05-06 21:09:44 | INFO | lstm_model | [Colorado] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Colorado.h5
+2026-05-06 21:09:44 | INFO | evaluation | Best model by MAPE: lstm (2.20%)
+2026-05-06 21:09:44 | INFO | evaluation | 
+==================================================
+2026-05-06 21:09:44 | INFO | evaluation |   Results for: Colorado
+2026-05-06 21:09:44 | INFO | evaluation | ==================================================
+2026-05-06 21:09:44 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  4064784.62  3840068.25  2.20     1
+xgboost  6412907.63  6098990.41  3.47     2
+ sarima 15158808.40 11643759.58  6.63     3
+2026-05-06 21:09:44 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:09:44 | INFO | evaluation | ==================================================
+
+2026-05-06 21:09:45 | INFO | visualization | [Colorado] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Colorado.png
+2026-05-06 21:09:45 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:09:45 | INFO | train_pipeline |   Training: Connecticut
+2026-05-06 21:09:45 | INFO | train_pipeline | ############################################################
+2026-05-06 21:09:45 | INFO | train_pipeline | [Connecticut] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:09:45 | INFO | arima_model | [Connecticut] Fitting SARIMA...
+2026-05-06 21:09:45 | INFO | arima_model | [Connecticut] pmdarima not installed, using defaults
+2026-05-06 21:10:00 | INFO | arima_model | [Connecticut] SARIMA fit done. AIC: 4596.63
+2026-05-06 21:10:14 | INFO | arima_model | [Connecticut] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Connecticut.pkl
+2026-05-06 21:10:14 | INFO | prophet_model | [Connecticut] Fitting Prophet...
+2026-05-06 21:10:14 | ERROR | train_pipeline | [Connecticut] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:10:14 | INFO | xgboost_model | [Connecticut] Building features for XGBoost...
+2026-05-06 21:10:14 | INFO | xgboost_model | [Connecticut] XGBoost train RMSE: 176,857
+2026-05-06 21:10:16 | INFO | visualization | [Connecticut] Feature importance plot saved
+2026-05-06 21:10:16 | INFO | xgboost_model | [Connecticut] Building features for XGBoost...
+2026-05-06 21:10:17 | INFO | xgboost_model | [Connecticut] XGBoost train RMSE: 212,497
+2026-05-06 21:10:17 | INFO | xgboost_model | [Connecticut] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Connecticut.pkl
+2026-05-06 21:10:17 | INFO | lstm_model | [Connecticut] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:10:33 | INFO | lstm_model | [Connecticut] LSTM training done. Best val_loss: 0.002389
+2026-05-06 21:10:37 | INFO | lstm_model | [Connecticut] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:10:56 | INFO | lstm_model | [Connecticut] LSTM training done. Best val_loss: 0.001472
+2026-05-06 21:10:58 | INFO | lstm_model | [Connecticut] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Connecticut.h5
+2026-05-06 21:10:58 | INFO | evaluation | Best model by MAPE: lstm (1.03%)
+2026-05-06 21:10:58 | INFO | evaluation | 
+==================================================
+2026-05-06 21:10:58 | INFO | evaluation |   Results for: Connecticut
+2026-05-06 21:10:58 | INFO | evaluation | ==================================================
+2026-05-06 21:10:58 | INFO | evaluation | 
+  model       rmse        mae  mape  rank
+   lstm 1164280.26  930563.82  1.03     1
+xgboost 2556699.31 2354042.04  2.60     2
+ sarima 7758472.53 6629716.64  7.31     3
+2026-05-06 21:10:58 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:10:58 | INFO | evaluation | ==================================================
+
+2026-05-06 21:10:59 | INFO | visualization | [Connecticut] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Connecticut.png
+2026-05-06 21:10:59 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:10:59 | INFO | train_pipeline |   Training: Florida
+2026-05-06 21:10:59 | INFO | train_pipeline | ############################################################
+2026-05-06 21:10:59 | INFO | train_pipeline | [Florida] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:10:59 | INFO | arima_model | [Florida] Fitting SARIMA...
+2026-05-06 21:10:59 | INFO | arima_model | [Florida] pmdarima not installed, using defaults
+2026-05-06 21:11:11 | INFO | arima_model | [Florida] SARIMA fit done. AIC: 5131.02
+2026-05-06 21:11:28 | INFO | arima_model | [Florida] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Florida.pkl
+2026-05-06 21:11:28 | INFO | prophet_model | [Florida] Fitting Prophet...
+2026-05-06 21:11:28 | ERROR | train_pipeline | [Florida] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:11:28 | INFO | xgboost_model | [Florida] Building features for XGBoost...
+2026-05-06 21:11:29 | INFO | xgboost_model | [Florida] XGBoost train RMSE: 1,191,344
+2026-05-06 21:11:31 | INFO | visualization | [Florida] Feature importance plot saved
+2026-05-06 21:11:31 | INFO | xgboost_model | [Florida] Building features for XGBoost...
+2026-05-06 21:11:31 | INFO | xgboost_model | [Florida] XGBoost train RMSE: 1,185,746
+2026-05-06 21:11:32 | INFO | xgboost_model | [Florida] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Florida.pkl
+2026-05-06 21:11:32 | INFO | lstm_model | [Florida] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:14:13 | INFO | main | Data path: C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\data\sales_data.xlsx
+2026-05-06 21:14:13 | INFO | main | Training all available states
+2026-05-06 21:14:13 | INFO | train_pipeline | Starting full training pipeline...
+2026-05-06 21:14:13 | INFO | preprocessing | Loading data from C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\data\sales_data.xlsx
+2026-05-06 21:14:13 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 21:14:13 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 21:14:13 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 21:14:13 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 21:14:13 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 21:14:13 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
+2026-05-06 21:14:14 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:14:14 | INFO | train_pipeline |   Training: Alabama
+2026-05-06 21:14:14 | INFO | train_pipeline | ############################################################
+2026-05-06 21:14:14 | INFO | train_pipeline | [Alabama] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:14:14 | INFO | arima_model | [Alabama] Fitting SARIMA...
+2026-05-06 21:14:15 | INFO | arima_model | [Alabama] pmdarima not installed, using defaults
+2026-05-06 21:14:23 | INFO | arima_model | [Alabama] SARIMA fit done. AIC: 4829.99
+2026-05-06 21:14:33 | INFO | arima_model | [Alabama] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Alabama.pkl
+2026-05-06 21:14:34 | INFO | prophet_model | [Alabama] Fitting Prophet...
+2026-05-06 21:14:34 | ERROR | train_pipeline | [Alabama] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:14:34 | INFO | xgboost_model | [Alabama] Building features for XGBoost...
+2026-05-06 21:14:34 | INFO | xgboost_model | [Alabama] XGBoost train RMSE: 413,573
+2026-05-06 21:14:36 | INFO | visualization | [Alabama] Feature importance plot saved
+2026-05-06 21:14:36 | INFO | xgboost_model | [Alabama] Building features for XGBoost...
+2026-05-06 21:14:37 | INFO | xgboost_model | [Alabama] XGBoost train RMSE: 430,982
+2026-05-06 21:14:37 | INFO | xgboost_model | [Alabama] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Alabama.pkl
+2026-05-06 21:14:53 | INFO | lstm_model | [Alabama] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:15:04 | INFO | lstm_model | [Alabama] LSTM training done. Best val_loss: 0.004876
+2026-05-06 21:15:06 | INFO | lstm_model | [Alabama] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 21:15:24 | INFO | lstm_model | [Alabama] LSTM training done. Best val_loss: 0.003728
+2026-05-06 21:15:25 | INFO | lstm_model | [Alabama] LSTM saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\lstm_Alabama.h5
+2026-05-06 21:15:25 | INFO | evaluation | Best model by MAPE: lstm (1.38%)
+2026-05-06 21:15:25 | INFO | evaluation | 
+==================================================
+2026-05-06 21:15:25 | INFO | evaluation |   Results for: Alabama
+2026-05-06 21:15:25 | INFO | evaluation | ==================================================
+2026-05-06 21:15:25 | INFO | evaluation | 
+  model        rmse         mae  mape  rank
+   lstm  4612403.60  2720740.41  1.38     1
+xgboost  5623386.79  5307728.27  2.63     2
+ sarima 17806139.02 15743718.73  7.78     3
+2026-05-06 21:15:25 | INFO | evaluation | 
+  >> Best model: lstm
+2026-05-06 21:15:25 | INFO | evaluation | ==================================================
+
+2026-05-06 21:15:26 | INFO | visualization | [Alabama] Forecast plot saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\outputs\plots\forecast_Alabama.png
+2026-05-06 21:15:26 | INFO | train_pipeline | 
+############################################################
+2026-05-06 21:15:26 | INFO | train_pipeline |   Training: Arizona
+2026-05-06 21:15:26 | INFO | train_pipeline | ############################################################
+2026-05-06 21:15:26 | INFO | train_pipeline | [Arizona] Train: 240 weeks, Val: 16 weeks
+2026-05-06 21:15:26 | INFO | arima_model | [Arizona] Fitting SARIMA...
+2026-05-06 21:15:26 | INFO | arima_model | [Arizona] pmdarima not installed, using defaults
+2026-05-06 21:15:36 | INFO | arima_model | [Arizona] SARIMA fit done. AIC: 4826.98
+2026-05-06 21:16:13 | INFO | arima_model | [Arizona] SARIMA model saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\sarima_Arizona.pkl
+2026-05-06 21:16:13 | INFO | prophet_model | [Arizona] Fitting Prophet...
+2026-05-06 21:16:13 | ERROR | train_pipeline | [Arizona] Prophet error: 'Prophet' object has no attribute 'stan_backend'
+2026-05-06 21:16:13 | INFO | xgboost_model | [Arizona] Building features for XGBoost...
+2026-05-06 21:16:13 | INFO | xgboost_model | [Arizona] XGBoost train RMSE: 337,590
+2026-05-06 21:16:15 | INFO | visualization | [Arizona] Feature importance plot saved
+2026-05-06 21:16:15 | INFO | xgboost_model | [Arizona] Building features for XGBoost...
+2026-05-06 21:16:15 | INFO | xgboost_model | [Arizona] XGBoost train RMSE: 351,127
+2026-05-06 21:16:16 | INFO | xgboost_model | [Arizona] XGBoost saved to C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\models\xgboost_Arizona.pkl
+2026-05-06 21:16:16 | INFO | lstm_model | [Arizona] Training LSTM (lookback=12, epochs=80)...
+2026-05-06 22:11:31 | INFO | api | Forecast request: state=Texas, n_weeks=8
+2026-05-06 22:11:31 | INFO | predict_pipeline | [Texas] Generating 8-week forecast...
+2026-05-06 22:11:31 | INFO | predict_pipeline | [Texas] Using model: lstm
+2026-05-06 22:11:31 | INFO | preprocessing | Loading data from C:\Users\Admin\Desktop\time-series-forecasting-system\time-series-forecasting-system\src\..\data\sales_data.xlsx
+2026-05-06 22:11:33 | INFO | preprocessing | Loaded 8084 rows, 43 states
+2026-05-06 22:11:33 | INFO | preprocessing | Alabama: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Arizona: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Arkansas: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | California: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Colorado: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Connecticut: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Florida: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Georgia: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Illinois: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Indiana: 256 weekly records after preprocessing
+2026-05-06 22:11:33 | INFO | preprocessing | Iowa: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Kansas: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Kentucky: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Louisiana: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Maine: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Maryland: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Massachusetts: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Michigan: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Minnesota: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Mississippi: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Missouri: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Nebraska: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Nevada: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | New Hampshire: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | New Mexico: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | New York: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | North Carolina: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Ohio: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Oklahoma: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Oregon: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Pennsylvania: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Rhode Island: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | South Carolina: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | South Dakota: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Tennessee: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Texas: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Utah: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Vermont: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Virginia: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Washington: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | West Virginia: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Wisconsin: 256 weekly records after preprocessing
+2026-05-06 22:11:34 | INFO | preprocessing | Wyoming: 256 weekly records after preprocessing
